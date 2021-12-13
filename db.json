@@ -1,1 +1,2808 @@
-{"error_code":0,"error_msg":"success","count":1,"data":{"data_type":"dashboard","data":{"devices_smartpole":[{"device_id":"ff0c9885f22edfd5e26a2c84e0095744","device_name":"adolph-nvida","gen_pos":{"lat":120.200063,"lng":23.100078},"data_rs485":{"sos":"0","temp":24.2,"humi":54.9,"pm25":1.8,"co":0.4,"tvoc":0.4,"ts":"1639371171","time":"2021\/12\/13 12:52:51","device_id":"ff0c9885f22edfd5e26a2c84e0095744","server_ts":"1639371171"},"data_esignage":["sp1-esignage1"],"data_ipcam":["sp1-ipcam1"],"data_wifi":["sp1-oap1"],"data_weather":["F-D0047-079_\u6b78\u4ec1\u5340"]},{"device_id":"15da55a06a5cfd172bd168d2056da630","device_name":"adolph-tainan-sp1","gen_pos":{"lat":120.279063,"lng":23.172078},"data_rs485":{"sos":"0","temp":23.9,"humi":55.7,"pm25":1.8,"co":0.3,"tvoc":0.3,"ts":"1639107471","time":"2021\/12\/10 11:37:51","device_id":"ff0c9885f22edfd5e26a2c84e0095744","server_ts":"1639107471"},"data_esignage":["sp1-esignage1"],"data_ipcam":["sp1-ipcam1"],"data_wifi":["sp1-oap1"],"data_weather":["F-D0047-079_\u6b78\u4ec1\u5340"]},{"device_id":"e87ab64c3574b8620bd1d43e8ac14466","device_name":"adolph-tainan-sp2","gen_pos":{"lat":120.279963,"lng":23.172978},"data_rs485":{"sos":"0","temp":23.9,"humi":55.7,"pm25":1.8,"co":0.3,"tvoc":0.3,"ts":"1639107471","time":"2021\/12\/10 11:37:51","device_id":"ff0c9885f22edfd5e26a2c84e0095744","server_ts":"1639107471"},"data_esignage":["sp2-esignage1"],"data_ipcam":["sp2-ipcam1"],"data_wifi":["sp2-oap1"],"data_weather":["F-D0047-079_\u6b78\u4ec1\u5340"]}],"devices_ipcam":{"sp1-ipcam1":{"device_id":"sp1-ipcam1","device_name":"sp1-ipcam1","id":"admin","pwd":"123456","rtsp_url":["rtsp:\/\/admin:123456@110.25.96.45:21554\/profile1","rtsp:\/\/admin:123456@110.25.96.45:21554\/profile2"],"dash_url":["http:\/\/tainan.sp.acloud.fun:19443\/dashboard\/_player_ipcam.php"]},"sp2-ipcam1":{"device_id":"sp2-ipcam1","device_name":"sp2-ipcam1","id":"admin","pwd":"123456","rtsp_url":["rtsp:\/\/admin:123456@110.25.96.45:21554\/profile1","rtsp:\/\/admin:123456@110.25.96.45:21554\/profile2"],"dash_url":["http:\/\/tainan.sp.acloud.fun:19443\/dashboard\/_player_ipcam.php"]}},"devices_wifi":{"sp1-oap1":{"device_id":"sp1-oap1","device_name":"sp1-oap1","device_data":{"ssid":"Tainan-Smartpole1","radio":"2.4","upload_speed":"1024","download_speed":"9999","uploaded":"12324","downloaded":"1921224","connected":1,"clients_num":4,"clients":{"5A:FB:C6:DA:7D:9E":{"host_name":"Pixel-6","ip_address":" 192.168.100.153","rssi":-78,"upload_speed":135,"download_speed":120,"uploaded":48.7,"downloaded":30.3},"5A:FB:C6:DA:7D:aa":{"host_name":"Pixel-5a","ip_address":" 192.168.100.123","rssi":-72,"upload_speed":135,"download_speed":120,"uploaded":48.7,"downloaded":30.3},"5A:FB:C6:DA:7D:bb":{"host_name":"Pixel-5","ip_address":" 192.168.100.151","rssi":-48,"upload_speed":135,"download_speed":120,"uploaded":48.7,"downloaded":30.3},"5A:FB:C6:DA:7D:cc":{"host_name":"Pixel-4","ip_address":" 192.168.100.152","rssi":-38,"upload_speed":135,"download_speed":120,"uploaded":48.7,"downloaded":30.3}}}},"sp2-oap1":{"device_id":"sp2-oap1","device_name":"sp2-oap1","device_data":{"ssid":"Tainan-Smartpole2","radio":"2.4","upload_speed":"1024","download_speed":"9999","uploaded":"12324","downloaded":"1921224","connected":1,"clients_num":4,"clients":{"5A:FB:C6:DA:7D:9E":{"host_name":"Pixel-6","ip_address":" 192.168.100.153","rssi":-78,"upload_speed":135,"download_speed":120,"uploaded":48.7,"downloaded":30.3},"5A:FB:C6:DA:7D:aa":{"host_name":"Pixel-5a","ip_address":" 192.168.100.123","rssi":-72,"upload_speed":135,"download_speed":120,"uploaded":48.7,"downloaded":30.3},"5A:FB:C6:DA:7D:bb":{"host_name":"Pixel-5","ip_address":" 192.168.100.151","rssi":-48,"upload_speed":135,"download_speed":120,"uploaded":48.7,"downloaded":30.3},"5A:FB:C6:DA:7D:cc":{"host_name":"Pixel-4","ip_address":" 192.168.100.152","rssi":-38,"upload_speed":135,"download_speed":120,"uploaded":48.7,"downloaded":30.3}}}}},"devices_esignage":{"sp1-esignage1":{"device_id":"sp1-esignage1","device_name":"sp1-esignage1","id":"admin","pwd":"123456","web_url":["http:\/\/110.25.96.45:19080\/"]},"sp2-esignage1":{"device_id":"sp2-esignage1","device_name":"sp2-esignage1","id":"admin","pwd":"123456","web_url":["http:\/\/110.25.96.45:19080\/"]}},"info_weather":{"F-D0047-079_\u6b78\u4ec1\u5340":[{"elementName":"PoP12h","description":"12\u5c0f\u6642\u964d\u96e8\u6a5f\u7387","time":[{"startTime":"2021-12-12 00:00:00","endTime":"2021-12-12 06:00:00","elementValue":[{"value":"0","measures":"\u767e\u5206\u6bd4"}]},{"startTime":"2021-12-12 06:00:00","endTime":"2021-12-12 18:00:00","elementValue":[{"value":"10","measures":"\u767e\u5206\u6bd4"}]},{"startTime":"2021-12-12 18:00:00","endTime":"2021-12-13 06:00:00","elementValue":[{"value":"0","measures":"\u767e\u5206\u6bd4"}]},{"startTime":"2021-12-13 06:00:00","endTime":"2021-12-13 18:00:00","elementValue":[{"value":"0","measures":"\u767e\u5206\u6bd4"}]},{"startTime":"2021-12-13 18:00:00","endTime":"2021-12-14 06:00:00","elementValue":[{"value":"0","measures":"\u767e\u5206\u6bd4"}]},{"startTime":"2021-12-14 06:00:00","endTime":"2021-12-14 18:00:00","elementValue":[{"value":"0","measures":"\u767e\u5206\u6bd4"}]},{"startTime":"2021-12-14 18:00:00","endTime":"2021-12-15 06:00:00","elementValue":[{"value":"0","measures":"\u767e\u5206\u6bd4"}]},{"startTime":"2021-12-15 06:00:00","endTime":"2021-12-15 18:00:00","elementValue":[{"value":" ","measures":"\u767e\u5206\u6bd4"}]},{"startTime":"2021-12-15 18:00:00","endTime":"2021-12-16 06:00:00","elementValue":[{"value":" ","measures":"\u767e\u5206\u6bd4"}]},{"startTime":"2021-12-16 06:00:00","endTime":"2021-12-16 18:00:00","elementValue":[{"value":" ","measures":"\u767e\u5206\u6bd4"}]},{"startTime":"2021-12-16 18:00:00","endTime":"2021-12-17 06:00:00","elementValue":[{"value":" ","measures":"\u767e\u5206\u6bd4"}]},{"startTime":"2021-12-17 06:00:00","endTime":"2021-12-17 18:00:00","elementValue":[{"value":" ","measures":"\u767e\u5206\u6bd4"}]},{"startTime":"2021-12-17 18:00:00","endTime":"2021-12-18 06:00:00","elementValue":[{"value":" ","measures":"\u767e\u5206\u6bd4"}]},{"startTime":"2021-12-18 06:00:00","endTime":"2021-12-18 18:00:00","elementValue":[{"value":" ","measures":"\u767e\u5206\u6bd4"}]},{"startTime":"2021-12-18 18:00:00","endTime":"2021-12-19 06:00:00","elementValue":[{"value":" ","measures":"\u767e\u5206\u6bd4"}]}]},{"elementName":"T","description":"\u5e73\u5747\u6eab\u5ea6","time":[{"startTime":"2021-12-12 00:00:00","endTime":"2021-12-12 06:00:00","elementValue":[{"value":"18","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-12 06:00:00","endTime":"2021-12-12 18:00:00","elementValue":[{"value":"22","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-12 18:00:00","endTime":"2021-12-13 06:00:00","elementValue":[{"value":"18","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-13 06:00:00","endTime":"2021-12-13 18:00:00","elementValue":[{"value":"21","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-13 18:00:00","endTime":"2021-12-14 06:00:00","elementValue":[{"value":"17","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-14 06:00:00","endTime":"2021-12-14 18:00:00","elementValue":[{"value":"21","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-14 18:00:00","endTime":"2021-12-15 06:00:00","elementValue":[{"value":"18","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-15 06:00:00","endTime":"2021-12-15 18:00:00","elementValue":[{"value":"22","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-15 18:00:00","endTime":"2021-12-16 06:00:00","elementValue":[{"value":"19","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-16 06:00:00","endTime":"2021-12-16 18:00:00","elementValue":[{"value":"23","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-16 18:00:00","endTime":"2021-12-17 06:00:00","elementValue":[{"value":"19","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-17 06:00:00","endTime":"2021-12-17 18:00:00","elementValue":[{"value":"22","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-17 18:00:00","endTime":"2021-12-18 06:00:00","elementValue":[{"value":"19","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-18 06:00:00","endTime":"2021-12-18 18:00:00","elementValue":[{"value":"22","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-18 18:00:00","endTime":"2021-12-19 06:00:00","elementValue":[{"value":"18","measures":"\u651d\u6c0f\u5ea6"}]}]},{"elementName":"RH","description":"\u5e73\u5747\u76f8\u5c0d\u6fd5\u5ea6","time":[{"startTime":"2021-12-12 00:00:00","endTime":"2021-12-12 06:00:00","elementValue":[{"value":"100","measures":"\u767e\u5206\u6bd4"}]},{"startTime":"2021-12-12 06:00:00","endTime":"2021-12-12 18:00:00","elementValue":[{"value":"81","measures":"\u767e\u5206\u6bd4"}]},{"startTime":"2021-12-12 18:00:00","endTime":"2021-12-13 06:00:00","elementValue":[{"value":"98","measures":"\u767e\u5206\u6bd4"}]},{"startTime":"2021-12-13 06:00:00","endTime":"2021-12-13 18:00:00","elementValue":[{"value":"80","measures":"\u767e\u5206\u6bd4"}]},{"startTime":"2021-12-13 18:00:00","endTime":"2021-12-14 06:00:00","elementValue":[{"value":"95","measures":"\u767e\u5206\u6bd4"}]},{"startTime":"2021-12-14 06:00:00","endTime":"2021-12-14 18:00:00","elementValue":[{"value":"74","measures":"\u767e\u5206\u6bd4"}]},{"startTime":"2021-12-14 18:00:00","endTime":"2021-12-15 06:00:00","elementValue":[{"value":"98","measures":"\u767e\u5206\u6bd4"}]},{"startTime":"2021-12-15 06:00:00","endTime":"2021-12-15 18:00:00","elementValue":[{"value":"80","measures":"\u767e\u5206\u6bd4"}]},{"startTime":"2021-12-15 18:00:00","endTime":"2021-12-16 06:00:00","elementValue":[{"value":"98","measures":"\u767e\u5206\u6bd4"}]},{"startTime":"2021-12-16 06:00:00","endTime":"2021-12-16 18:00:00","elementValue":[{"value":"75","measures":"\u767e\u5206\u6bd4"}]},{"startTime":"2021-12-16 18:00:00","endTime":"2021-12-17 06:00:00","elementValue":[{"value":"95","measures":"\u767e\u5206\u6bd4"}]},{"startTime":"2021-12-17 06:00:00","endTime":"2021-12-17 18:00:00","elementValue":[{"value":"77","measures":"\u767e\u5206\u6bd4"}]},{"startTime":"2021-12-17 18:00:00","endTime":"2021-12-18 06:00:00","elementValue":[{"value":"96","measures":"\u767e\u5206\u6bd4"}]},{"startTime":"2021-12-18 06:00:00","endTime":"2021-12-18 18:00:00","elementValue":[{"value":"73","measures":"\u767e\u5206\u6bd4"}]},{"startTime":"2021-12-18 18:00:00","endTime":"2021-12-19 06:00:00","elementValue":[{"value":"95","measures":"\u767e\u5206\u6bd4"}]}]},{"elementName":"MinCI","description":"\u6700\u5c0f\u8212\u9069\u5ea6\u6307\u6578","time":[{"startTime":"2021-12-12 00:00:00","endTime":"2021-12-12 06:00:00","elementValue":[{"value":"17","measures":"NA"},{"value":"\u7a0d\u6709\u5bd2\u610f","measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"}]},{"startTime":"2021-12-12 06:00:00","endTime":"2021-12-12 18:00:00","elementValue":[{"value":"17","measures":"NA"},{"value":"\u7a0d\u6709\u5bd2\u610f","measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"}]},{"startTime":"2021-12-12 18:00:00","endTime":"2021-12-13 06:00:00","elementValue":[{"value":"16","measures":"NA"},{"value":"\u7a0d\u6709\u5bd2\u610f","measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"}]},{"startTime":"2021-12-13 06:00:00","endTime":"2021-12-13 18:00:00","elementValue":[{"value":"16","measures":"NA"},{"value":"\u7a0d\u6709\u5bd2\u610f","measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"}]},{"startTime":"2021-12-13 18:00:00","endTime":"2021-12-14 06:00:00","elementValue":[{"value":"16","measures":"NA"},{"value":"\u7a0d\u6709\u5bd2\u610f","measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"}]},{"startTime":"2021-12-14 06:00:00","endTime":"2021-12-14 18:00:00","elementValue":[{"value":"16","measures":"NA"},{"value":"\u7a0d\u6709\u5bd2\u610f","measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"}]},{"startTime":"2021-12-14 18:00:00","endTime":"2021-12-15 06:00:00","elementValue":[{"value":"17","measures":"NA"},{"value":"\u7a0d\u6709\u5bd2\u610f","measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"}]},{"startTime":"2021-12-15 06:00:00","endTime":"2021-12-15 18:00:00","elementValue":[{"value":"17","measures":"NA"},{"value":"\u7a0d\u6709\u5bd2\u610f","measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"}]},{"startTime":"2021-12-15 18:00:00","endTime":"2021-12-16 06:00:00","elementValue":[{"value":"18","measures":"NA"},{"value":"\u7a0d\u6709\u5bd2\u610f","measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"}]},{"startTime":"2021-12-16 06:00:00","endTime":"2021-12-16 18:00:00","elementValue":[{"value":"18","measures":"NA"},{"value":"\u7a0d\u6709\u5bd2\u610f","measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"}]},{"startTime":"2021-12-16 18:00:00","endTime":"2021-12-17 06:00:00","elementValue":[{"value":"18","measures":"NA"},{"value":"\u7a0d\u6709\u5bd2\u610f","measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"}]},{"startTime":"2021-12-17 06:00:00","endTime":"2021-12-17 18:00:00","elementValue":[{"value":"18","measures":"NA"},{"value":"\u7a0d\u6709\u5bd2\u610f","measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"}]},{"startTime":"2021-12-17 18:00:00","endTime":"2021-12-18 06:00:00","elementValue":[{"value":"17","measures":"NA"},{"value":"\u7a0d\u6709\u5bd2\u610f","measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"}]},{"startTime":"2021-12-18 06:00:00","endTime":"2021-12-18 18:00:00","elementValue":[{"value":"17","measures":"NA"},{"value":"\u7a0d\u6709\u5bd2\u610f","measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"}]},{"startTime":"2021-12-18 18:00:00","endTime":"2021-12-19 06:00:00","elementValue":[{"value":"16","measures":"NA"},{"value":"\u7a0d\u6709\u5bd2\u610f","measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"}]}]},{"elementName":"WS","description":"\u6700\u5927\u98a8\u901f","time":[{"startTime":"2021-12-12 00:00:00","endTime":"2021-12-12 06:00:00","elementValue":[{"value":"2","measures":"\u516c\u5c3a\/\u79d2"},{"value":"2","measures":"\u84b2\u798f\u98a8\u7d1a"}]},{"startTime":"2021-12-12 06:00:00","endTime":"2021-12-12 18:00:00","elementValue":[{"value":"2","measures":"\u516c\u5c3a\/\u79d2"},{"value":"2","measures":"\u84b2\u798f\u98a8\u7d1a"}]},{"startTime":"2021-12-12 18:00:00","endTime":"2021-12-13 06:00:00","elementValue":[{"value":"3","measures":"\u516c\u5c3a\/\u79d2"},{"value":"2","measures":"\u84b2\u798f\u98a8\u7d1a"}]},{"startTime":"2021-12-13 06:00:00","endTime":"2021-12-13 18:00:00","elementValue":[{"value":"2","measures":"\u516c\u5c3a\/\u79d2"},{"value":"2","measures":"\u84b2\u798f\u98a8\u7d1a"}]},{"startTime":"2021-12-13 18:00:00","endTime":"2021-12-14 06:00:00","elementValue":[{"value":"3","measures":"\u516c\u5c3a\/\u79d2"},{"value":"2","measures":"\u84b2\u798f\u98a8\u7d1a"}]},{"startTime":"2021-12-14 06:00:00","endTime":"2021-12-14 18:00:00","elementValue":[{"value":"2","measures":"\u516c\u5c3a\/\u79d2"},{"value":"2","measures":"\u84b2\u798f\u98a8\u7d1a"}]},{"startTime":"2021-12-14 18:00:00","endTime":"2021-12-15 06:00:00","elementValue":[{"value":"2","measures":"\u516c\u5c3a\/\u79d2"},{"value":"2","measures":"\u84b2\u798f\u98a8\u7d1a"}]},{"startTime":"2021-12-15 06:00:00","endTime":"2021-12-15 18:00:00","elementValue":[{"value":"2","measures":"\u516c\u5c3a\/\u79d2"},{"value":"2","measures":"\u84b2\u798f\u98a8\u7d1a"}]},{"startTime":"2021-12-15 18:00:00","endTime":"2021-12-16 06:00:00","elementValue":[{"value":"2","measures":"\u516c\u5c3a\/\u79d2"},{"value":"2","measures":"\u84b2\u798f\u98a8\u7d1a"}]},{"startTime":"2021-12-16 06:00:00","endTime":"2021-12-16 18:00:00","elementValue":[{"value":"2","measures":"\u516c\u5c3a\/\u79d2"},{"value":"2","measures":"\u84b2\u798f\u98a8\u7d1a"}]},{"startTime":"2021-12-16 18:00:00","endTime":"2021-12-17 06:00:00","elementValue":[{"value":"2","measures":"\u516c\u5c3a\/\u79d2"},{"value":"2","measures":"\u84b2\u798f\u98a8\u7d1a"}]},{"startTime":"2021-12-17 06:00:00","endTime":"2021-12-17 18:00:00","elementValue":[{"value":"3","measures":"\u516c\u5c3a\/\u79d2"},{"value":"2","measures":"\u84b2\u798f\u98a8\u7d1a"}]},{"startTime":"2021-12-17 18:00:00","endTime":"2021-12-18 06:00:00","elementValue":[{"value":"3","measures":"\u516c\u5c3a\/\u79d2"},{"value":"2","measures":"\u84b2\u798f\u98a8\u7d1a"}]},{"startTime":"2021-12-18 06:00:00","endTime":"2021-12-18 18:00:00","elementValue":[{"value":"2","measures":"\u516c\u5c3a\/\u79d2"},{"value":"2","measures":"\u84b2\u798f\u98a8\u7d1a"}]},{"startTime":"2021-12-18 18:00:00","endTime":"2021-12-19 06:00:00","elementValue":[{"value":"3","measures":"\u516c\u5c3a\/\u79d2"},{"value":"2","measures":"\u84b2\u798f\u98a8\u7d1a"}]}]},{"elementName":"MaxAT","description":"\u6700\u9ad8\u9ad4\u611f\u6eab\u5ea6","time":[{"startTime":"2021-12-12 00:00:00","endTime":"2021-12-12 06:00:00","elementValue":[{"value":"21","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-12 06:00:00","endTime":"2021-12-12 18:00:00","elementValue":[{"value":"28","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-12 18:00:00","endTime":"2021-12-13 06:00:00","elementValue":[{"value":"23","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-13 06:00:00","endTime":"2021-12-13 18:00:00","elementValue":[{"value":"28","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-13 18:00:00","endTime":"2021-12-14 06:00:00","elementValue":[{"value":"22","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-14 06:00:00","endTime":"2021-12-14 18:00:00","elementValue":[{"value":"27","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-14 18:00:00","endTime":"2021-12-15 06:00:00","elementValue":[{"value":"23","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-15 06:00:00","endTime":"2021-12-15 18:00:00","elementValue":[{"value":"28","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-15 18:00:00","endTime":"2021-12-16 06:00:00","elementValue":[{"value":"24","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-16 06:00:00","endTime":"2021-12-16 18:00:00","elementValue":[{"value":"28","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-16 18:00:00","endTime":"2021-12-17 06:00:00","elementValue":[{"value":"24","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-17 06:00:00","endTime":"2021-12-17 18:00:00","elementValue":[{"value":"27","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-17 18:00:00","endTime":"2021-12-18 06:00:00","elementValue":[{"value":"23","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-18 06:00:00","endTime":"2021-12-18 18:00:00","elementValue":[{"value":"26","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-18 18:00:00","endTime":"2021-12-19 06:00:00","elementValue":[{"value":"22","measures":"\u651d\u6c0f\u5ea6"}]}]},{"elementName":"Wx","description":"\u5929\u6c23\u73fe\u8c61","time":[{"startTime":"2021-12-12 00:00:00","endTime":"2021-12-12 06:00:00","elementValue":[{"value":"\u591a\u96f2","measures":"\u81ea\u5b9a\u7fa9 Wx \u6587\u5b57"},{"value":"04","measures":"\u81ea\u5b9a\u7fa9 Wx \u55ae\u4f4d"}]},{"startTime":"2021-12-12 06:00:00","endTime":"2021-12-12 18:00:00","elementValue":[{"value":"\u6674\u6642\u591a\u96f2","measures":"\u81ea\u5b9a\u7fa9 Wx \u6587\u5b57"},{"value":"02","measures":"\u81ea\u5b9a\u7fa9 Wx \u55ae\u4f4d"}]},{"startTime":"2021-12-12 18:00:00","endTime":"2021-12-13 06:00:00","elementValue":[{"value":"\u6674\u6642\u591a\u96f2","measures":"\u81ea\u5b9a\u7fa9 Wx \u6587\u5b57"},{"value":"02","measures":"\u81ea\u5b9a\u7fa9 Wx \u55ae\u4f4d"}]},{"startTime":"2021-12-13 06:00:00","endTime":"2021-12-13 18:00:00","elementValue":[{"value":"\u591a\u96f2\u6642\u6674","measures":"\u81ea\u5b9a\u7fa9 Wx \u6587\u5b57"},{"value":"03","measures":"\u81ea\u5b9a\u7fa9 Wx \u55ae\u4f4d"}]},{"startTime":"2021-12-13 18:00:00","endTime":"2021-12-14 06:00:00","elementValue":[{"value":"\u6674\u6642\u591a\u96f2","measures":"\u81ea\u5b9a\u7fa9 Wx \u6587\u5b57"},{"value":"02","measures":"\u81ea\u5b9a\u7fa9 Wx \u55ae\u4f4d"}]},{"startTime":"2021-12-14 06:00:00","endTime":"2021-12-14 18:00:00","elementValue":[{"value":"\u6674\u6642\u591a\u96f2","measures":"\u81ea\u5b9a\u7fa9 Wx \u6587\u5b57"},{"value":"02","measures":"\u81ea\u5b9a\u7fa9 Wx \u55ae\u4f4d"}]},{"startTime":"2021-12-14 18:00:00","endTime":"2021-12-15 06:00:00","elementValue":[{"value":"\u591a\u96f2\u6642\u6674","measures":"\u81ea\u5b9a\u7fa9 Wx \u6587\u5b57"},{"value":"03","measures":"\u81ea\u5b9a\u7fa9 Wx \u55ae\u4f4d"}]},{"startTime":"2021-12-15 06:00:00","endTime":"2021-12-15 18:00:00","elementValue":[{"value":"\u6674\u6642\u591a\u96f2","measures":"\u81ea\u5b9a\u7fa9 Wx \u6587\u5b57"},{"value":"02","measures":"\u81ea\u5b9a\u7fa9 Wx \u55ae\u4f4d"}]},{"startTime":"2021-12-15 18:00:00","endTime":"2021-12-16 06:00:00","elementValue":[{"value":"\u591a\u96f2\u6642\u6674","measures":"\u81ea\u5b9a\u7fa9 Wx \u6587\u5b57"},{"value":"03","measures":"\u81ea\u5b9a\u7fa9 Wx \u55ae\u4f4d"}]},{"startTime":"2021-12-16 06:00:00","endTime":"2021-12-16 18:00:00","elementValue":[{"value":"\u6674\u6642\u591a\u96f2","measures":"\u81ea\u5b9a\u7fa9 Wx \u6587\u5b57"},{"value":"02","measures":"\u81ea\u5b9a\u7fa9 Wx \u55ae\u4f4d"}]},{"startTime":"2021-12-16 18:00:00","endTime":"2021-12-17 06:00:00","elementValue":[{"value":"\u6674\u6642\u591a\u96f2","measures":"\u81ea\u5b9a\u7fa9 Wx \u6587\u5b57"},{"value":"02","measures":"\u81ea\u5b9a\u7fa9 Wx \u55ae\u4f4d"}]},{"startTime":"2021-12-17 06:00:00","endTime":"2021-12-17 18:00:00","elementValue":[{"value":"\u591a\u96f2","measures":"\u81ea\u5b9a\u7fa9 Wx \u6587\u5b57"},{"value":"04","measures":"\u81ea\u5b9a\u7fa9 Wx \u55ae\u4f4d"}]},{"startTime":"2021-12-17 18:00:00","endTime":"2021-12-18 06:00:00","elementValue":[{"value":"\u591a\u96f2\u6642\u9670","measures":"\u81ea\u5b9a\u7fa9 Wx \u6587\u5b57"},{"value":"05","measures":"\u81ea\u5b9a\u7fa9 Wx \u55ae\u4f4d"}]},{"startTime":"2021-12-18 06:00:00","endTime":"2021-12-18 18:00:00","elementValue":[{"value":"\u591a\u96f2","measures":"\u81ea\u5b9a\u7fa9 Wx \u6587\u5b57"},{"value":"04","measures":"\u81ea\u5b9a\u7fa9 Wx \u55ae\u4f4d"}]},{"startTime":"2021-12-18 18:00:00","endTime":"2021-12-19 06:00:00","elementValue":[{"value":"\u591a\u96f2","measures":"\u81ea\u5b9a\u7fa9 Wx \u6587\u5b57"},{"value":"04","measures":"\u81ea\u5b9a\u7fa9 Wx \u55ae\u4f4d"}]}]},{"elementName":"MaxCI","description":"\u6700\u5927\u8212\u9069\u5ea6\u6307\u6578","time":[{"startTime":"2021-12-12 00:00:00","endTime":"2021-12-12 06:00:00","elementValue":[{"value":"19","measures":"NA "},{"value":"\u7a0d\u6709\u5bd2\u610f","measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"}]},{"startTime":"2021-12-12 06:00:00","endTime":"2021-12-12 18:00:00","elementValue":[{"value":"24","measures":"NA "},{"value":"\u8212\u9069","measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"}]},{"startTime":"2021-12-12 18:00:00","endTime":"2021-12-13 06:00:00","elementValue":[{"value":"21","measures":"NA "},{"value":"\u8212\u9069","measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"}]},{"startTime":"2021-12-13 06:00:00","endTime":"2021-12-13 18:00:00","elementValue":[{"value":"23","measures":"NA "},{"value":"\u8212\u9069","measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"}]},{"startTime":"2021-12-13 18:00:00","endTime":"2021-12-14 06:00:00","elementValue":[{"value":"20","measures":"NA "},{"value":"\u8212\u9069","measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"}]},{"startTime":"2021-12-14 06:00:00","endTime":"2021-12-14 18:00:00","elementValue":[{"value":"22","measures":"NA "},{"value":"\u8212\u9069","measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"}]},{"startTime":"2021-12-14 18:00:00","endTime":"2021-12-15 06:00:00","elementValue":[{"value":"21","measures":"NA "},{"value":"\u8212\u9069","measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"}]},{"startTime":"2021-12-15 06:00:00","endTime":"2021-12-15 18:00:00","elementValue":[{"value":"24","measures":"NA "},{"value":"\u8212\u9069","measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"}]},{"startTime":"2021-12-15 18:00:00","endTime":"2021-12-16 06:00:00","elementValue":[{"value":"21","measures":"NA "},{"value":"\u8212\u9069","measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"}]},{"startTime":"2021-12-16 06:00:00","endTime":"2021-12-16 18:00:00","elementValue":[{"value":"23","measures":"NA "},{"value":"\u8212\u9069","measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"}]},{"startTime":"2021-12-16 18:00:00","endTime":"2021-12-17 06:00:00","elementValue":[{"value":"21","measures":"NA "},{"value":"\u8212\u9069","measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"}]},{"startTime":"2021-12-17 06:00:00","endTime":"2021-12-17 18:00:00","elementValue":[{"value":"23","measures":"NA "},{"value":"\u8212\u9069","measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"}]},{"startTime":"2021-12-17 18:00:00","endTime":"2021-12-18 06:00:00","elementValue":[{"value":"21","measures":"NA "},{"value":"\u8212\u9069","measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"}]},{"startTime":"2021-12-18 06:00:00","endTime":"2021-12-18 18:00:00","elementValue":[{"value":"22","measures":"NA "},{"value":"\u8212\u9069","measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"}]},{"startTime":"2021-12-18 18:00:00","endTime":"2021-12-19 06:00:00","elementValue":[{"value":"20","measures":"NA "},{"value":"\u8212\u9069","measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"}]}]},{"elementName":"MinT","description":"\u6700\u4f4e\u6eab\u5ea6","time":[{"startTime":"2021-12-12 00:00:00","endTime":"2021-12-12 06:00:00","elementValue":[{"value":"17","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-12 06:00:00","endTime":"2021-12-12 18:00:00","elementValue":[{"value":"17","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-12 18:00:00","endTime":"2021-12-13 06:00:00","elementValue":[{"value":"16","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-13 06:00:00","endTime":"2021-12-13 18:00:00","elementValue":[{"value":"16","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-13 18:00:00","endTime":"2021-12-14 06:00:00","elementValue":[{"value":"16","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-14 06:00:00","endTime":"2021-12-14 18:00:00","elementValue":[{"value":"16","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-14 18:00:00","endTime":"2021-12-15 06:00:00","elementValue":[{"value":"17","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-15 06:00:00","endTime":"2021-12-15 18:00:00","elementValue":[{"value":"17","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-15 18:00:00","endTime":"2021-12-16 06:00:00","elementValue":[{"value":"18","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-16 06:00:00","endTime":"2021-12-16 18:00:00","elementValue":[{"value":"18","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-16 18:00:00","endTime":"2021-12-17 06:00:00","elementValue":[{"value":"18","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-17 06:00:00","endTime":"2021-12-17 18:00:00","elementValue":[{"value":"18","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-17 18:00:00","endTime":"2021-12-18 06:00:00","elementValue":[{"value":"17","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-18 06:00:00","endTime":"2021-12-18 18:00:00","elementValue":[{"value":"17","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-18 18:00:00","endTime":"2021-12-19 06:00:00","elementValue":[{"value":"16","measures":"\u651d\u6c0f\u5ea6"}]}]},{"elementName":"UVI","description":"\u7d2b\u5916\u7dda\u6307\u6578","time":[{"startTime":"2021-12-12 06:00:00","endTime":"2021-12-12 18:00:00","elementValue":[{"value":"5","measures":"\u7d2b\u5916\u7dda\u6307\u6578"},{"value":"\u4e2d\u91cf\u7d1a","measures":"\u66dd\u66ec\u7d1a\u6578"}]},{"startTime":"2021-12-13 06:00:00","endTime":"2021-12-13 18:00:00","elementValue":[{"value":"5","measures":"\u7d2b\u5916\u7dda\u6307\u6578"},{"value":"\u4e2d\u91cf\u7d1a","measures":"\u66dd\u66ec\u7d1a\u6578"}]},{"startTime":"2021-12-14 06:00:00","endTime":"2021-12-14 18:00:00","elementValue":[{"value":"5","measures":"\u7d2b\u5916\u7dda\u6307\u6578"},{"value":"\u4e2d\u91cf\u7d1a","measures":"\u66dd\u66ec\u7d1a\u6578"}]},{"startTime":"2021-12-15 06:00:00","endTime":"2021-12-15 18:00:00","elementValue":[{"value":"5","measures":"\u7d2b\u5916\u7dda\u6307\u6578"},{"value":"\u4e2d\u91cf\u7d1a","measures":"\u66dd\u66ec\u7d1a\u6578"}]},{"startTime":"2021-12-16 06:00:00","endTime":"2021-12-16 18:00:00","elementValue":[{"value":"5","measures":"\u7d2b\u5916\u7dda\u6307\u6578"},{"value":"\u4e2d\u91cf\u7d1a","measures":"\u66dd\u66ec\u7d1a\u6578"}]},{"startTime":"2021-12-17 06:00:00","endTime":"2021-12-17 18:00:00","elementValue":[{"value":"4","measures":"\u7d2b\u5916\u7dda\u6307\u6578"},{"value":"\u4e2d\u91cf\u7d1a","measures":"\u66dd\u66ec\u7d1a\u6578"}]},{"startTime":"2021-12-18 06:00:00","endTime":"2021-12-18 18:00:00","elementValue":[{"value":"4","measures":"\u7d2b\u5916\u7dda\u6307\u6578"},{"value":"\u4e2d\u91cf\u7d1a","measures":"\u66dd\u66ec\u7d1a\u6578"}]}]},{"elementName":"WeatherDescription","description":"\u5929\u6c23\u9810\u5831\u7d9c\u5408\u63cf\u8ff0","time":[{"startTime":"2021-12-12 00:00:00","endTime":"2021-12-12 06:00:00","elementValue":[{"value":"\u591a\u96f2\u3002\u964d\u96e8\u6a5f\u7387 0%\u3002\u6eab\u5ea6\u651d\u6c0f17\u81f319\u5ea6\u3002\u7a0d\u6709\u5bd2\u610f\u3002\u504f\u5317\u98a8 \u98a8\u901f2\u7d1a(\u6bcf\u79d22\u516c\u5c3a)\u3002\u76f8\u5c0d\u6fd5\u5ea6100%\u3002","measures":"NA"}]},{"startTime":"2021-12-12 06:00:00","endTime":"2021-12-12 18:00:00","elementValue":[{"value":"\u6674\u6642\u591a\u96f2\u3002\u964d\u96e8\u6a5f\u7387 10%\u3002\u6eab\u5ea6\u651d\u6c0f17\u81f326\u5ea6\u3002\u7a0d\u6709\u5bd2\u610f\u81f3\u8212\u9069\u3002\u897f\u5317\u98a8 \u98a8\u901f2\u7d1a(\u6bcf\u79d22\u516c\u5c3a)\u3002\u76f8\u5c0d\u6fd5\u5ea681%\u3002","measures":"NA"}]},{"startTime":"2021-12-12 18:00:00","endTime":"2021-12-13 06:00:00","elementValue":[{"value":"\u6674\u6642\u591a\u96f2\u3002\u964d\u96e8\u6a5f\u7387 0%\u3002\u6eab\u5ea6\u651d\u6c0f16\u81f321\u5ea6\u3002\u7a0d\u6709\u5bd2\u610f\u81f3\u8212\u9069\u3002\u504f\u5317\u98a8 \u98a8\u901f2\u7d1a(\u6bcf\u79d23\u516c\u5c3a)\u3002\u76f8\u5c0d\u6fd5\u5ea698%\u3002","measures":"NA"}]},{"startTime":"2021-12-13 06:00:00","endTime":"2021-12-13 18:00:00","elementValue":[{"value":"\u591a\u96f2\u6642\u6674\u3002\u964d\u96e8\u6a5f\u7387 0%\u3002\u6eab\u5ea6\u651d\u6c0f16\u81f325\u5ea6\u3002\u7a0d\u6709\u5bd2\u610f\u81f3\u8212\u9069\u3002\u504f\u5317\u98a8 \u98a8\u901f2\u7d1a(\u6bcf\u79d22\u516c\u5c3a)\u3002\u76f8\u5c0d\u6fd5\u5ea680%\u3002","measures":"NA"}]},{"startTime":"2021-12-13 18:00:00","endTime":"2021-12-14 06:00:00","elementValue":[{"value":"\u6674\u6642\u591a\u96f2\u3002\u964d\u96e8\u6a5f\u7387 0%\u3002\u6eab\u5ea6\u651d\u6c0f16\u81f321\u5ea6\u3002\u7a0d\u6709\u5bd2\u610f\u81f3\u8212\u9069\u3002\u504f\u5317\u98a8 \u98a8\u901f2\u7d1a(\u6bcf\u79d23\u516c\u5c3a)\u3002\u76f8\u5c0d\u6fd5\u5ea695%\u3002","measures":"NA"}]},{"startTime":"2021-12-14 06:00:00","endTime":"2021-12-14 18:00:00","elementValue":[{"value":"\u6674\u6642\u591a\u96f2\u3002\u964d\u96e8\u6a5f\u7387 0%\u3002\u6eab\u5ea6\u651d\u6c0f16\u81f326\u5ea6\u3002\u7a0d\u6709\u5bd2\u610f\u81f3\u8212\u9069\u3002\u897f\u5317\u98a8 \u98a8\u901f2\u7d1a(\u6bcf\u79d22\u516c\u5c3a)\u3002\u76f8\u5c0d\u6fd5\u5ea674%\u3002","measures":"NA"}]},{"startTime":"2021-12-14 18:00:00","endTime":"2021-12-15 06:00:00","elementValue":[{"value":"\u591a\u96f2\u6642\u6674\u3002\u964d\u96e8\u6a5f\u7387 0%\u3002\u6eab\u5ea6\u651d\u6c0f17\u81f321\u5ea6\u3002\u7a0d\u6709\u5bd2\u610f\u81f3\u8212\u9069\u3002\u504f\u5317\u98a8 \u98a8\u901f2\u7d1a(\u6bcf\u79d22\u516c\u5c3a)\u3002\u76f8\u5c0d\u6fd5\u5ea698%\u3002","measures":"NA"}]},{"startTime":"2021-12-15 06:00:00","endTime":"2021-12-15 18:00:00","elementValue":[{"value":"\u6674\u6642\u591a\u96f2\u3002\u6eab\u5ea6\u651d\u6c0f17\u81f326\u5ea6\u3002\u7a0d\u6709\u5bd2\u610f\u81f3\u8212\u9069\u3002\u897f\u5317\u98a8 \u98a8\u901f2\u7d1a(\u6bcf\u79d22\u516c\u5c3a)\u3002\u76f8\u5c0d\u6fd5\u5ea680%\u3002","measures":"NA"}]},{"startTime":"2021-12-15 18:00:00","endTime":"2021-12-16 06:00:00","elementValue":[{"value":"\u591a\u96f2\u6642\u6674\u3002\u6eab\u5ea6\u651d\u6c0f18\u81f322\u5ea6\u3002\u7a0d\u6709\u5bd2\u610f\u81f3\u8212\u9069\u3002\u897f\u5317\u98a8 \u98a8\u901f2\u7d1a(\u6bcf\u79d22\u516c\u5c3a)\u3002\u76f8\u5c0d\u6fd5\u5ea698%\u3002","measures":"NA"}]},{"startTime":"2021-12-16 06:00:00","endTime":"2021-12-16 18:00:00","elementValue":[{"value":"\u6674\u6642\u591a\u96f2\u3002\u6eab\u5ea6\u651d\u6c0f18\u81f326\u5ea6\u3002\u7a0d\u6709\u5bd2\u610f\u81f3\u8212\u9069\u3002\u504f\u5317\u98a8 \u98a8\u901f2\u7d1a(\u6bcf\u79d22\u516c\u5c3a)\u3002\u76f8\u5c0d\u6fd5\u5ea675%\u3002","measures":"NA"}]},{"startTime":"2021-12-16 18:00:00","endTime":"2021-12-17 06:00:00","elementValue":[{"value":"\u6674\u6642\u591a\u96f2\u3002\u6eab\u5ea6\u651d\u6c0f18\u81f322\u5ea6\u3002\u7a0d\u6709\u5bd2\u610f\u81f3\u8212\u9069\u3002\u504f\u5317\u98a8 \u98a8\u901f2\u7d1a(\u6bcf\u79d22\u516c\u5c3a)\u3002\u76f8\u5c0d\u6fd5\u5ea695%\u3002","measures":"NA"}]},{"startTime":"2021-12-17 06:00:00","endTime":"2021-12-17 18:00:00","elementValue":[{"value":"\u591a\u96f2\u3002\u6eab\u5ea6\u651d\u6c0f18\u81f326\u5ea6\u3002\u7a0d\u6709\u5bd2\u610f\u81f3\u8212\u9069\u3002\u504f\u5317\u98a8 \u98a8\u901f2\u7d1a(\u6bcf\u79d23\u516c\u5c3a)\u3002\u76f8\u5c0d\u6fd5\u5ea677%\u3002","measures":"NA"}]},{"startTime":"2021-12-17 18:00:00","endTime":"2021-12-18 06:00:00","elementValue":[{"value":"\u591a\u96f2\u6642\u9670\u3002\u6eab\u5ea6\u651d\u6c0f17\u81f322\u5ea6\u3002\u7a0d\u6709\u5bd2\u610f\u81f3\u8212\u9069\u3002\u504f\u5317\u98a8 \u98a8\u901f2\u7d1a(\u6bcf\u79d23\u516c\u5c3a)\u3002\u76f8\u5c0d\u6fd5\u5ea696%\u3002","measures":"NA"}]},{"startTime":"2021-12-18 06:00:00","endTime":"2021-12-18 18:00:00","elementValue":[{"value":"\u591a\u96f2\u3002\u6eab\u5ea6\u651d\u6c0f17\u81f325\u5ea6\u3002\u7a0d\u6709\u5bd2\u610f\u81f3\u8212\u9069\u3002\u897f\u5317\u98a8 \u98a8\u901f2\u7d1a(\u6bcf\u79d22\u516c\u5c3a)\u3002\u76f8\u5c0d\u6fd5\u5ea673%\u3002","measures":"NA"}]},{"startTime":"2021-12-18 18:00:00","endTime":"2021-12-19 06:00:00","elementValue":[{"value":"\u591a\u96f2\u3002\u6eab\u5ea6\u651d\u6c0f16\u81f321\u5ea6\u3002\u7a0d\u6709\u5bd2\u610f\u81f3\u8212\u9069\u3002\u504f\u5317\u98a8 \u98a8\u901f2\u7d1a(\u6bcf\u79d23\u516c\u5c3a)\u3002\u76f8\u5c0d\u6fd5\u5ea695%\u3002","measures":"NA"}]}]},{"elementName":"MinAT","description":"\u6700\u4f4e\u9ad4\u611f\u6eab\u5ea6","time":[{"startTime":"2021-12-12 00:00:00","endTime":"2021-12-12 06:00:00","elementValue":[{"value":"19","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-12 06:00:00","endTime":"2021-12-12 18:00:00","elementValue":[{"value":"19","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-12 18:00:00","endTime":"2021-12-13 06:00:00","elementValue":[{"value":"17","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-13 06:00:00","endTime":"2021-12-13 18:00:00","elementValue":[{"value":"17","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-13 18:00:00","endTime":"2021-12-14 06:00:00","elementValue":[{"value":"16","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-14 06:00:00","endTime":"2021-12-14 18:00:00","elementValue":[{"value":"16","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-14 18:00:00","endTime":"2021-12-15 06:00:00","elementValue":[{"value":"18","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-15 06:00:00","endTime":"2021-12-15 18:00:00","elementValue":[{"value":"18","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-15 18:00:00","endTime":"2021-12-16 06:00:00","elementValue":[{"value":"19","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-16 06:00:00","endTime":"2021-12-16 18:00:00","elementValue":[{"value":"19","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-16 18:00:00","endTime":"2021-12-17 06:00:00","elementValue":[{"value":"19","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-17 06:00:00","endTime":"2021-12-17 18:00:00","elementValue":[{"value":"19","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-17 18:00:00","endTime":"2021-12-18 06:00:00","elementValue":[{"value":"19","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-18 06:00:00","endTime":"2021-12-18 18:00:00","elementValue":[{"value":"19","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-18 18:00:00","endTime":"2021-12-19 06:00:00","elementValue":[{"value":"17","measures":"\u651d\u6c0f\u5ea6"}]}]},{"elementName":"MaxT","description":"\u6700\u9ad8\u6eab\u5ea6","time":[{"startTime":"2021-12-12 00:00:00","endTime":"2021-12-12 06:00:00","elementValue":[{"value":"19","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-12 06:00:00","endTime":"2021-12-12 18:00:00","elementValue":[{"value":"26","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-12 18:00:00","endTime":"2021-12-13 06:00:00","elementValue":[{"value":"21","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-13 06:00:00","endTime":"2021-12-13 18:00:00","elementValue":[{"value":"25","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-13 18:00:00","endTime":"2021-12-14 06:00:00","elementValue":[{"value":"21","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-14 06:00:00","endTime":"2021-12-14 18:00:00","elementValue":[{"value":"26","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-14 18:00:00","endTime":"2021-12-15 06:00:00","elementValue":[{"value":"21","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-15 06:00:00","endTime":"2021-12-15 18:00:00","elementValue":[{"value":"26","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-15 18:00:00","endTime":"2021-12-16 06:00:00","elementValue":[{"value":"22","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-16 06:00:00","endTime":"2021-12-16 18:00:00","elementValue":[{"value":"26","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-16 18:00:00","endTime":"2021-12-17 06:00:00","elementValue":[{"value":"22","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-17 06:00:00","endTime":"2021-12-17 18:00:00","elementValue":[{"value":"26","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-17 18:00:00","endTime":"2021-12-18 06:00:00","elementValue":[{"value":"22","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-18 06:00:00","endTime":"2021-12-18 18:00:00","elementValue":[{"value":"25","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-18 18:00:00","endTime":"2021-12-19 06:00:00","elementValue":[{"value":"21","measures":"\u651d\u6c0f\u5ea6"}]}]},{"elementName":"WD","description":"\u98a8\u5411","time":[{"startTime":"2021-12-12 00:00:00","endTime":"2021-12-12 06:00:00","elementValue":[{"value":"\u504f\u5317\u98a8","measures":"8\u65b9\u4f4d"}]},{"startTime":"2021-12-12 06:00:00","endTime":"2021-12-12 18:00:00","elementValue":[{"value":"\u897f\u5317\u98a8","measures":"8\u65b9\u4f4d"}]},{"startTime":"2021-12-12 18:00:00","endTime":"2021-12-13 06:00:00","elementValue":[{"value":"\u504f\u5317\u98a8","measures":"8\u65b9\u4f4d"}]},{"startTime":"2021-12-13 06:00:00","endTime":"2021-12-13 18:00:00","elementValue":[{"value":"\u504f\u5317\u98a8","measures":"8\u65b9\u4f4d"}]},{"startTime":"2021-12-13 18:00:00","endTime":"2021-12-14 06:00:00","elementValue":[{"value":"\u504f\u5317\u98a8","measures":"8\u65b9\u4f4d"}]},{"startTime":"2021-12-14 06:00:00","endTime":"2021-12-14 18:00:00","elementValue":[{"value":"\u897f\u5317\u98a8","measures":"8\u65b9\u4f4d"}]},{"startTime":"2021-12-14 18:00:00","endTime":"2021-12-15 06:00:00","elementValue":[{"value":"\u504f\u5317\u98a8","measures":"8\u65b9\u4f4d"}]},{"startTime":"2021-12-15 06:00:00","endTime":"2021-12-15 18:00:00","elementValue":[{"value":"\u897f\u5317\u98a8","measures":"8\u65b9\u4f4d"}]},{"startTime":"2021-12-15 18:00:00","endTime":"2021-12-16 06:00:00","elementValue":[{"value":"\u897f\u5317\u98a8","measures":"8\u65b9\u4f4d"}]},{"startTime":"2021-12-16 06:00:00","endTime":"2021-12-16 18:00:00","elementValue":[{"value":"\u504f\u5317\u98a8","measures":"8\u65b9\u4f4d"}]},{"startTime":"2021-12-16 18:00:00","endTime":"2021-12-17 06:00:00","elementValue":[{"value":"\u504f\u5317\u98a8","measures":"8\u65b9\u4f4d"}]},{"startTime":"2021-12-17 06:00:00","endTime":"2021-12-17 18:00:00","elementValue":[{"value":"\u504f\u5317\u98a8","measures":"8\u65b9\u4f4d"}]},{"startTime":"2021-12-17 18:00:00","endTime":"2021-12-18 06:00:00","elementValue":[{"value":"\u504f\u5317\u98a8","measures":"8\u65b9\u4f4d"}]},{"startTime":"2021-12-18 06:00:00","endTime":"2021-12-18 18:00:00","elementValue":[{"value":"\u897f\u5317\u98a8","measures":"8\u65b9\u4f4d"}]},{"startTime":"2021-12-18 18:00:00","endTime":"2021-12-19 06:00:00","elementValue":[{"value":"\u504f\u5317\u98a8","measures":"8\u65b9\u4f4d"}]}]},{"elementName":"Td","description":"\u5e73\u5747\u9732\u9ede\u6eab\u5ea6","time":[{"startTime":"2021-12-12 00:00:00","endTime":"2021-12-12 06:00:00","elementValue":[{"value":"18","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-12 06:00:00","endTime":"2021-12-12 18:00:00","elementValue":[{"value":"19","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-12 18:00:00","endTime":"2021-12-13 06:00:00","elementValue":[{"value":"17","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-13 06:00:00","endTime":"2021-12-13 18:00:00","elementValue":[{"value":"17","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-13 18:00:00","endTime":"2021-12-14 06:00:00","elementValue":[{"value":"16","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-14 06:00:00","endTime":"2021-12-14 18:00:00","elementValue":[{"value":"16","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-14 18:00:00","endTime":"2021-12-15 06:00:00","elementValue":[{"value":"18","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-15 06:00:00","endTime":"2021-12-15 18:00:00","elementValue":[{"value":"18","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-15 18:00:00","endTime":"2021-12-16 06:00:00","elementValue":[{"value":"19","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-16 06:00:00","endTime":"2021-12-16 18:00:00","elementValue":[{"value":"17","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-16 18:00:00","endTime":"2021-12-17 06:00:00","elementValue":[{"value":"18","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-17 06:00:00","endTime":"2021-12-17 18:00:00","elementValue":[{"value":"18","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-17 18:00:00","endTime":"2021-12-18 06:00:00","elementValue":[{"value":"18","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-18 06:00:00","endTime":"2021-12-18 18:00:00","elementValue":[{"value":"16","measures":"\u651d\u6c0f\u5ea6"}]},{"startTime":"2021-12-18 18:00:00","endTime":"2021-12-19 06:00:00","elementValue":[{"value":"17","measures":"\u651d\u6c0f\u5ea6"}]}]}]},"info_news":{"news_1":{"type":"info","text":"info1.....info1.....info1.....info1.....info1.....info1.....info1.....info1.....info1.....info1.....info1.....info1.....info1.....info1....."},"news_2":{"type":"news","text":"news1......news1.......news1.......news1.......news1.......news1.......news1.......news1.......news1.......news1.......news1........news1.......news1.......news1.......news1.......news1.......news1......."},"news_3":{"type":"message","text":"message1.........................message1.........................message1.........................message1.........................message1.........................message1.........................message1.........................message1........................."}}}}}
+{
+   "error_code":0,
+   "error_msg":"success",
+   "count":1,
+   "data":{
+      "data_type":"dashboard",
+      "data":{
+         "devices_smartpole":[
+            {
+               "device_id":"ff0c9885f22edfd5e26a2c84e0095744",
+               "device_name":"adolph-nvida",
+               "gen_pos":{
+                  "lat":120.200063,
+                  "lng":23.100078
+               },
+               "data_rs485":{
+                  "sos":"0",
+                  "temp":24.2,
+                  "humi":54.9,
+                  "pm25":1.8,
+                  "co":0.4,
+                  "tvoc":0.4,
+                  "ts":"1639371171",
+                  "time":"2021\/12\/13 12:52:51",
+                  "device_id":"ff0c9885f22edfd5e26a2c84e0095744",
+                  "server_ts":"1639371171"
+               },
+               "data_esignage":[
+                  "sp1-esignage1"
+               ],
+               "data_ipcam":[
+                  "sp1-ipcam1"
+               ],
+               "data_wifi":[
+                  "sp1-oap1"
+               ],
+               "data_weather":[
+                  "F-D0047-079_\u6b78\u4ec1\u5340"
+               ]
+            },
+            {
+               "device_id":"15da55a06a5cfd172bd168d2056da630",
+               "device_name":"adolph-tainan-sp1",
+               "gen_pos":{
+                  "lat":120.279063,
+                  "lng":23.172078
+               },
+               "data_rs485":{
+                  "sos":"0",
+                  "temp":23.9,
+                  "humi":55.7,
+                  "pm25":1.8,
+                  "co":0.3,
+                  "tvoc":0.3,
+                  "ts":"1639107471",
+                  "time":"2021\/12\/10 11:37:51",
+                  "device_id":"ff0c9885f22edfd5e26a2c84e0095744",
+                  "server_ts":"1639107471"
+               },
+               "data_esignage":[
+                  "sp1-esignage1"
+               ],
+               "data_ipcam":[
+                  "sp1-ipcam1"
+               ],
+               "data_wifi":[
+                  "sp1-oap1"
+               ],
+               "data_weather":[
+                  "F-D0047-079_\u6b78\u4ec1\u5340"
+               ]
+            },
+            {
+               "device_id":"e87ab64c3574b8620bd1d43e8ac14466",
+               "device_name":"adolph-tainan-sp2",
+               "gen_pos":{
+                  "lat":120.279963,
+                  "lng":23.172978
+               },
+               "data_rs485":{
+                  "sos":"0",
+                  "temp":23.9,
+                  "humi":55.7,
+                  "pm25":1.8,
+                  "co":0.3,
+                  "tvoc":0.3,
+                  "ts":"1639107471",
+                  "time":"2021\/12\/10 11:37:51",
+                  "device_id":"ff0c9885f22edfd5e26a2c84e0095744",
+                  "server_ts":"1639107471"
+               },
+               "data_esignage":[
+                  "sp2-esignage1"
+               ],
+               "data_ipcam":[
+                  "sp2-ipcam1"
+               ],
+               "data_wifi":[
+                  "sp2-oap1"
+               ],
+               "data_weather":[
+                  "F-D0047-079_\u6b78\u4ec1\u5340"
+               ]
+            }
+         ],
+         "devices_ipcam":{
+            "sp1-ipcam1":{
+               "device_id":"sp1-ipcam1",
+               "device_name":"sp1-ipcam1",
+               "id":"admin",
+               "pwd":"123456",
+               "rtsp_url":[
+                  "rtsp:\/\/admin:123456@110.25.96.45:21554\/profile1",
+                  "rtsp:\/\/admin:123456@110.25.96.45:21554\/profile2"
+               ],
+               "dash_url":[
+                  "http:\/\/tainan.sp.acloud.fun:19443\/dashboard\/_player_ipcam.php"
+               ]
+            },
+            "sp2-ipcam1":{
+               "device_id":"sp2-ipcam1",
+               "device_name":"sp2-ipcam1",
+               "id":"admin",
+               "pwd":"123456",
+               "rtsp_url":[
+                  "rtsp:\/\/admin:123456@110.25.96.45:21554\/profile1",
+                  "rtsp:\/\/admin:123456@110.25.96.45:21554\/profile2"
+               ],
+               "dash_url":[
+                  "http:\/\/tainan.sp.acloud.fun:19443\/dashboard\/_player_ipcam.php"
+               ]
+            }
+         },
+         "devices_wifi":{
+            "sp1-oap1":{
+               "device_id":"sp1-oap1",
+               "device_name":"sp1-oap1",
+               "device_data":{
+                  "ssid":"Tainan-Smartpole1",
+                  "radio":"2.4",
+                  "upload_speed":"1024",
+                  "download_speed":"9999",
+                  "uploaded":"12324",
+                  "downloaded":"1921224",
+                  "connected":1,
+                  "clients_num":4,
+                  "clients":{
+                     "5A:FB:C6:DA:7D:9E":{
+                        "host_name":"Pixel-6",
+                        "ip_address":" 192.168.100.153",
+                        "rssi":-78,
+                        "upload_speed":135,
+                        "download_speed":120,
+                        "uploaded":48.7,
+                        "downloaded":30.3
+                     },
+                     "5A:FB:C6:DA:7D:aa":{
+                        "host_name":"Pixel-5a",
+                        "ip_address":" 192.168.100.123",
+                        "rssi":-72,
+                        "upload_speed":135,
+                        "download_speed":120,
+                        "uploaded":48.7,
+                        "downloaded":30.3
+                     },
+                     "5A:FB:C6:DA:7D:bb":{
+                        "host_name":"Pixel-5",
+                        "ip_address":" 192.168.100.151",
+                        "rssi":-48,
+                        "upload_speed":135,
+                        "download_speed":120,
+                        "uploaded":48.7,
+                        "downloaded":30.3
+                     },
+                     "5A:FB:C6:DA:7D:cc":{
+                        "host_name":"Pixel-4",
+                        "ip_address":" 192.168.100.152",
+                        "rssi":-38,
+                        "upload_speed":135,
+                        "download_speed":120,
+                        "uploaded":48.7,
+                        "downloaded":30.3
+                     }
+                  }
+               }
+            },
+            "sp2-oap1":{
+               "device_id":"sp2-oap1",
+               "device_name":"sp2-oap1",
+               "device_data":{
+                  "ssid":"Tainan-Smartpole2",
+                  "radio":"2.4",
+                  "upload_speed":"1024",
+                  "download_speed":"9999",
+                  "uploaded":"12324",
+                  "downloaded":"1921224",
+                  "connected":1,
+                  "clients_num":4,
+                  "clients":{
+                     "5A:FB:C6:DA:7D:9E":{
+                        "host_name":"Pixel-6",
+                        "ip_address":" 192.168.100.153",
+                        "rssi":-78,
+                        "upload_speed":135,
+                        "download_speed":120,
+                        "uploaded":48.7,
+                        "downloaded":30.3
+                     },
+                     "5A:FB:C6:DA:7D:aa":{
+                        "host_name":"Pixel-5a",
+                        "ip_address":" 192.168.100.123",
+                        "rssi":-72,
+                        "upload_speed":135,
+                        "download_speed":120,
+                        "uploaded":48.7,
+                        "downloaded":30.3
+                     },
+                     "5A:FB:C6:DA:7D:bb":{
+                        "host_name":"Pixel-5",
+                        "ip_address":" 192.168.100.151",
+                        "rssi":-48,
+                        "upload_speed":135,
+                        "download_speed":120,
+                        "uploaded":48.7,
+                        "downloaded":30.3
+                     },
+                     "5A:FB:C6:DA:7D:cc":{
+                        "host_name":"Pixel-4",
+                        "ip_address":" 192.168.100.152",
+                        "rssi":-38,
+                        "upload_speed":135,
+                        "download_speed":120,
+                        "uploaded":48.7,
+                        "downloaded":30.3
+                     }
+                  }
+               }
+            }
+         },
+         "devices_esignage":{
+            "sp1-esignage1":{
+               "device_id":"sp1-esignage1",
+               "device_name":"sp1-esignage1",
+               "id":"admin",
+               "pwd":"123456",
+               "web_url":[
+                  "http:\/\/110.25.96.45:19080\/"
+               ]
+            },
+            "sp2-esignage1":{
+               "device_id":"sp2-esignage1",
+               "device_name":"sp2-esignage1",
+               "id":"admin",
+               "pwd":"123456",
+               "web_url":[
+                  "http:\/\/110.25.96.45:19080\/"
+               ]
+            }
+         },
+         "info_weather":{
+            "F-D0047-079_\u6b78\u4ec1\u5340":[
+               {
+                  "elementName":"PoP12h",
+                  "description":"12\u5c0f\u6642\u964d\u96e8\u6a5f\u7387",
+                  "time":[
+                     {
+                        "startTime":"2021-12-12 00:00:00",
+                        "endTime":"2021-12-12 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"0",
+                              "measures":"\u767e\u5206\u6bd4"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-12 06:00:00",
+                        "endTime":"2021-12-12 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"10",
+                              "measures":"\u767e\u5206\u6bd4"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-12 18:00:00",
+                        "endTime":"2021-12-13 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"0",
+                              "measures":"\u767e\u5206\u6bd4"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-13 06:00:00",
+                        "endTime":"2021-12-13 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"0",
+                              "measures":"\u767e\u5206\u6bd4"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-13 18:00:00",
+                        "endTime":"2021-12-14 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"0",
+                              "measures":"\u767e\u5206\u6bd4"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-14 06:00:00",
+                        "endTime":"2021-12-14 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"0",
+                              "measures":"\u767e\u5206\u6bd4"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-14 18:00:00",
+                        "endTime":"2021-12-15 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"0",
+                              "measures":"\u767e\u5206\u6bd4"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-15 06:00:00",
+                        "endTime":"2021-12-15 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":" ",
+                              "measures":"\u767e\u5206\u6bd4"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-15 18:00:00",
+                        "endTime":"2021-12-16 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":" ",
+                              "measures":"\u767e\u5206\u6bd4"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-16 06:00:00",
+                        "endTime":"2021-12-16 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":" ",
+                              "measures":"\u767e\u5206\u6bd4"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-16 18:00:00",
+                        "endTime":"2021-12-17 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":" ",
+                              "measures":"\u767e\u5206\u6bd4"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-17 06:00:00",
+                        "endTime":"2021-12-17 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":" ",
+                              "measures":"\u767e\u5206\u6bd4"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-17 18:00:00",
+                        "endTime":"2021-12-18 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":" ",
+                              "measures":"\u767e\u5206\u6bd4"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-18 06:00:00",
+                        "endTime":"2021-12-18 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":" ",
+                              "measures":"\u767e\u5206\u6bd4"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-18 18:00:00",
+                        "endTime":"2021-12-19 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":" ",
+                              "measures":"\u767e\u5206\u6bd4"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "elementName":"T",
+                  "description":"\u5e73\u5747\u6eab\u5ea6",
+                  "time":[
+                     {
+                        "startTime":"2021-12-12 00:00:00",
+                        "endTime":"2021-12-12 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"18",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-12 06:00:00",
+                        "endTime":"2021-12-12 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"22",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-12 18:00:00",
+                        "endTime":"2021-12-13 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"18",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-13 06:00:00",
+                        "endTime":"2021-12-13 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"21",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-13 18:00:00",
+                        "endTime":"2021-12-14 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"17",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-14 06:00:00",
+                        "endTime":"2021-12-14 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"21",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-14 18:00:00",
+                        "endTime":"2021-12-15 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"18",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-15 06:00:00",
+                        "endTime":"2021-12-15 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"22",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-15 18:00:00",
+                        "endTime":"2021-12-16 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"19",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-16 06:00:00",
+                        "endTime":"2021-12-16 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"23",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-16 18:00:00",
+                        "endTime":"2021-12-17 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"19",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-17 06:00:00",
+                        "endTime":"2021-12-17 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"22",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-17 18:00:00",
+                        "endTime":"2021-12-18 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"19",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-18 06:00:00",
+                        "endTime":"2021-12-18 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"22",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-18 18:00:00",
+                        "endTime":"2021-12-19 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"18",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "elementName":"RH",
+                  "description":"\u5e73\u5747\u76f8\u5c0d\u6fd5\u5ea6",
+                  "time":[
+                     {
+                        "startTime":"2021-12-12 00:00:00",
+                        "endTime":"2021-12-12 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"100",
+                              "measures":"\u767e\u5206\u6bd4"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-12 06:00:00",
+                        "endTime":"2021-12-12 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"81",
+                              "measures":"\u767e\u5206\u6bd4"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-12 18:00:00",
+                        "endTime":"2021-12-13 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"98",
+                              "measures":"\u767e\u5206\u6bd4"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-13 06:00:00",
+                        "endTime":"2021-12-13 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"80",
+                              "measures":"\u767e\u5206\u6bd4"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-13 18:00:00",
+                        "endTime":"2021-12-14 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"95",
+                              "measures":"\u767e\u5206\u6bd4"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-14 06:00:00",
+                        "endTime":"2021-12-14 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"74",
+                              "measures":"\u767e\u5206\u6bd4"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-14 18:00:00",
+                        "endTime":"2021-12-15 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"98",
+                              "measures":"\u767e\u5206\u6bd4"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-15 06:00:00",
+                        "endTime":"2021-12-15 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"80",
+                              "measures":"\u767e\u5206\u6bd4"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-15 18:00:00",
+                        "endTime":"2021-12-16 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"98",
+                              "measures":"\u767e\u5206\u6bd4"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-16 06:00:00",
+                        "endTime":"2021-12-16 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"75",
+                              "measures":"\u767e\u5206\u6bd4"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-16 18:00:00",
+                        "endTime":"2021-12-17 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"95",
+                              "measures":"\u767e\u5206\u6bd4"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-17 06:00:00",
+                        "endTime":"2021-12-17 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"77",
+                              "measures":"\u767e\u5206\u6bd4"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-17 18:00:00",
+                        "endTime":"2021-12-18 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"96",
+                              "measures":"\u767e\u5206\u6bd4"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-18 06:00:00",
+                        "endTime":"2021-12-18 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"73",
+                              "measures":"\u767e\u5206\u6bd4"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-18 18:00:00",
+                        "endTime":"2021-12-19 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"95",
+                              "measures":"\u767e\u5206\u6bd4"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "elementName":"MinCI",
+                  "description":"\u6700\u5c0f\u8212\u9069\u5ea6\u6307\u6578",
+                  "time":[
+                     {
+                        "startTime":"2021-12-12 00:00:00",
+                        "endTime":"2021-12-12 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"17",
+                              "measures":"NA"
+                           },
+                           {
+                              "value":"\u7a0d\u6709\u5bd2\u610f",
+                              "measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-12 06:00:00",
+                        "endTime":"2021-12-12 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"17",
+                              "measures":"NA"
+                           },
+                           {
+                              "value":"\u7a0d\u6709\u5bd2\u610f",
+                              "measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-12 18:00:00",
+                        "endTime":"2021-12-13 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"16",
+                              "measures":"NA"
+                           },
+                           {
+                              "value":"\u7a0d\u6709\u5bd2\u610f",
+                              "measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-13 06:00:00",
+                        "endTime":"2021-12-13 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"16",
+                              "measures":"NA"
+                           },
+                           {
+                              "value":"\u7a0d\u6709\u5bd2\u610f",
+                              "measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-13 18:00:00",
+                        "endTime":"2021-12-14 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"16",
+                              "measures":"NA"
+                           },
+                           {
+                              "value":"\u7a0d\u6709\u5bd2\u610f",
+                              "measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-14 06:00:00",
+                        "endTime":"2021-12-14 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"16",
+                              "measures":"NA"
+                           },
+                           {
+                              "value":"\u7a0d\u6709\u5bd2\u610f",
+                              "measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-14 18:00:00",
+                        "endTime":"2021-12-15 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"17",
+                              "measures":"NA"
+                           },
+                           {
+                              "value":"\u7a0d\u6709\u5bd2\u610f",
+                              "measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-15 06:00:00",
+                        "endTime":"2021-12-15 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"17",
+                              "measures":"NA"
+                           },
+                           {
+                              "value":"\u7a0d\u6709\u5bd2\u610f",
+                              "measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-15 18:00:00",
+                        "endTime":"2021-12-16 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"18",
+                              "measures":"NA"
+                           },
+                           {
+                              "value":"\u7a0d\u6709\u5bd2\u610f",
+                              "measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-16 06:00:00",
+                        "endTime":"2021-12-16 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"18",
+                              "measures":"NA"
+                           },
+                           {
+                              "value":"\u7a0d\u6709\u5bd2\u610f",
+                              "measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-16 18:00:00",
+                        "endTime":"2021-12-17 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"18",
+                              "measures":"NA"
+                           },
+                           {
+                              "value":"\u7a0d\u6709\u5bd2\u610f",
+                              "measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-17 06:00:00",
+                        "endTime":"2021-12-17 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"18",
+                              "measures":"NA"
+                           },
+                           {
+                              "value":"\u7a0d\u6709\u5bd2\u610f",
+                              "measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-17 18:00:00",
+                        "endTime":"2021-12-18 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"17",
+                              "measures":"NA"
+                           },
+                           {
+                              "value":"\u7a0d\u6709\u5bd2\u610f",
+                              "measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-18 06:00:00",
+                        "endTime":"2021-12-18 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"17",
+                              "measures":"NA"
+                           },
+                           {
+                              "value":"\u7a0d\u6709\u5bd2\u610f",
+                              "measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-18 18:00:00",
+                        "endTime":"2021-12-19 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"16",
+                              "measures":"NA"
+                           },
+                           {
+                              "value":"\u7a0d\u6709\u5bd2\u610f",
+                              "measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "elementName":"WS",
+                  "description":"\u6700\u5927\u98a8\u901f",
+                  "time":[
+                     {
+                        "startTime":"2021-12-12 00:00:00",
+                        "endTime":"2021-12-12 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"2",
+                              "measures":"\u516c\u5c3a\/\u79d2"
+                           },
+                           {
+                              "value":"2",
+                              "measures":"\u84b2\u798f\u98a8\u7d1a"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-12 06:00:00",
+                        "endTime":"2021-12-12 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"2",
+                              "measures":"\u516c\u5c3a\/\u79d2"
+                           },
+                           {
+                              "value":"2",
+                              "measures":"\u84b2\u798f\u98a8\u7d1a"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-12 18:00:00",
+                        "endTime":"2021-12-13 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"3",
+                              "measures":"\u516c\u5c3a\/\u79d2"
+                           },
+                           {
+                              "value":"2",
+                              "measures":"\u84b2\u798f\u98a8\u7d1a"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-13 06:00:00",
+                        "endTime":"2021-12-13 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"2",
+                              "measures":"\u516c\u5c3a\/\u79d2"
+                           },
+                           {
+                              "value":"2",
+                              "measures":"\u84b2\u798f\u98a8\u7d1a"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-13 18:00:00",
+                        "endTime":"2021-12-14 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"3",
+                              "measures":"\u516c\u5c3a\/\u79d2"
+                           },
+                           {
+                              "value":"2",
+                              "measures":"\u84b2\u798f\u98a8\u7d1a"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-14 06:00:00",
+                        "endTime":"2021-12-14 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"2",
+                              "measures":"\u516c\u5c3a\/\u79d2"
+                           },
+                           {
+                              "value":"2",
+                              "measures":"\u84b2\u798f\u98a8\u7d1a"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-14 18:00:00",
+                        "endTime":"2021-12-15 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"2",
+                              "measures":"\u516c\u5c3a\/\u79d2"
+                           },
+                           {
+                              "value":"2",
+                              "measures":"\u84b2\u798f\u98a8\u7d1a"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-15 06:00:00",
+                        "endTime":"2021-12-15 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"2",
+                              "measures":"\u516c\u5c3a\/\u79d2"
+                           },
+                           {
+                              "value":"2",
+                              "measures":"\u84b2\u798f\u98a8\u7d1a"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-15 18:00:00",
+                        "endTime":"2021-12-16 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"2",
+                              "measures":"\u516c\u5c3a\/\u79d2"
+                           },
+                           {
+                              "value":"2",
+                              "measures":"\u84b2\u798f\u98a8\u7d1a"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-16 06:00:00",
+                        "endTime":"2021-12-16 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"2",
+                              "measures":"\u516c\u5c3a\/\u79d2"
+                           },
+                           {
+                              "value":"2",
+                              "measures":"\u84b2\u798f\u98a8\u7d1a"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-16 18:00:00",
+                        "endTime":"2021-12-17 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"2",
+                              "measures":"\u516c\u5c3a\/\u79d2"
+                           },
+                           {
+                              "value":"2",
+                              "measures":"\u84b2\u798f\u98a8\u7d1a"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-17 06:00:00",
+                        "endTime":"2021-12-17 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"3",
+                              "measures":"\u516c\u5c3a\/\u79d2"
+                           },
+                           {
+                              "value":"2",
+                              "measures":"\u84b2\u798f\u98a8\u7d1a"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-17 18:00:00",
+                        "endTime":"2021-12-18 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"3",
+                              "measures":"\u516c\u5c3a\/\u79d2"
+                           },
+                           {
+                              "value":"2",
+                              "measures":"\u84b2\u798f\u98a8\u7d1a"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-18 06:00:00",
+                        "endTime":"2021-12-18 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"2",
+                              "measures":"\u516c\u5c3a\/\u79d2"
+                           },
+                           {
+                              "value":"2",
+                              "measures":"\u84b2\u798f\u98a8\u7d1a"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-18 18:00:00",
+                        "endTime":"2021-12-19 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"3",
+                              "measures":"\u516c\u5c3a\/\u79d2"
+                           },
+                           {
+                              "value":"2",
+                              "measures":"\u84b2\u798f\u98a8\u7d1a"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "elementName":"MaxAT",
+                  "description":"\u6700\u9ad8\u9ad4\u611f\u6eab\u5ea6",
+                  "time":[
+                     {
+                        "startTime":"2021-12-12 00:00:00",
+                        "endTime":"2021-12-12 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"21",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-12 06:00:00",
+                        "endTime":"2021-12-12 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"28",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-12 18:00:00",
+                        "endTime":"2021-12-13 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"23",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-13 06:00:00",
+                        "endTime":"2021-12-13 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"28",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-13 18:00:00",
+                        "endTime":"2021-12-14 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"22",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-14 06:00:00",
+                        "endTime":"2021-12-14 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"27",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-14 18:00:00",
+                        "endTime":"2021-12-15 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"23",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-15 06:00:00",
+                        "endTime":"2021-12-15 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"28",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-15 18:00:00",
+                        "endTime":"2021-12-16 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"24",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-16 06:00:00",
+                        "endTime":"2021-12-16 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"28",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-16 18:00:00",
+                        "endTime":"2021-12-17 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"24",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-17 06:00:00",
+                        "endTime":"2021-12-17 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"27",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-17 18:00:00",
+                        "endTime":"2021-12-18 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"23",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-18 06:00:00",
+                        "endTime":"2021-12-18 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"26",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-18 18:00:00",
+                        "endTime":"2021-12-19 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"22",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "elementName":"Wx",
+                  "description":"\u5929\u6c23\u73fe\u8c61",
+                  "time":[
+                     {
+                        "startTime":"2021-12-12 00:00:00",
+                        "endTime":"2021-12-12 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"\u591a\u96f2",
+                              "measures":"\u81ea\u5b9a\u7fa9 Wx \u6587\u5b57"
+                           },
+                           {
+                              "value":"04",
+                              "measures":"\u81ea\u5b9a\u7fa9 Wx \u55ae\u4f4d"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-12 06:00:00",
+                        "endTime":"2021-12-12 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"\u6674\u6642\u591a\u96f2",
+                              "measures":"\u81ea\u5b9a\u7fa9 Wx \u6587\u5b57"
+                           },
+                           {
+                              "value":"02",
+                              "measures":"\u81ea\u5b9a\u7fa9 Wx \u55ae\u4f4d"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-12 18:00:00",
+                        "endTime":"2021-12-13 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"\u6674\u6642\u591a\u96f2",
+                              "measures":"\u81ea\u5b9a\u7fa9 Wx \u6587\u5b57"
+                           },
+                           {
+                              "value":"02",
+                              "measures":"\u81ea\u5b9a\u7fa9 Wx \u55ae\u4f4d"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-13 06:00:00",
+                        "endTime":"2021-12-13 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"\u591a\u96f2\u6642\u6674",
+                              "measures":"\u81ea\u5b9a\u7fa9 Wx \u6587\u5b57"
+                           },
+                           {
+                              "value":"03",
+                              "measures":"\u81ea\u5b9a\u7fa9 Wx \u55ae\u4f4d"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-13 18:00:00",
+                        "endTime":"2021-12-14 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"\u6674\u6642\u591a\u96f2",
+                              "measures":"\u81ea\u5b9a\u7fa9 Wx \u6587\u5b57"
+                           },
+                           {
+                              "value":"02",
+                              "measures":"\u81ea\u5b9a\u7fa9 Wx \u55ae\u4f4d"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-14 06:00:00",
+                        "endTime":"2021-12-14 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"\u6674\u6642\u591a\u96f2",
+                              "measures":"\u81ea\u5b9a\u7fa9 Wx \u6587\u5b57"
+                           },
+                           {
+                              "value":"02",
+                              "measures":"\u81ea\u5b9a\u7fa9 Wx \u55ae\u4f4d"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-14 18:00:00",
+                        "endTime":"2021-12-15 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"\u591a\u96f2\u6642\u6674",
+                              "measures":"\u81ea\u5b9a\u7fa9 Wx \u6587\u5b57"
+                           },
+                           {
+                              "value":"03",
+                              "measures":"\u81ea\u5b9a\u7fa9 Wx \u55ae\u4f4d"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-15 06:00:00",
+                        "endTime":"2021-12-15 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"\u6674\u6642\u591a\u96f2",
+                              "measures":"\u81ea\u5b9a\u7fa9 Wx \u6587\u5b57"
+                           },
+                           {
+                              "value":"02",
+                              "measures":"\u81ea\u5b9a\u7fa9 Wx \u55ae\u4f4d"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-15 18:00:00",
+                        "endTime":"2021-12-16 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"\u591a\u96f2\u6642\u6674",
+                              "measures":"\u81ea\u5b9a\u7fa9 Wx \u6587\u5b57"
+                           },
+                           {
+                              "value":"03",
+                              "measures":"\u81ea\u5b9a\u7fa9 Wx \u55ae\u4f4d"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-16 06:00:00",
+                        "endTime":"2021-12-16 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"\u6674\u6642\u591a\u96f2",
+                              "measures":"\u81ea\u5b9a\u7fa9 Wx \u6587\u5b57"
+                           },
+                           {
+                              "value":"02",
+                              "measures":"\u81ea\u5b9a\u7fa9 Wx \u55ae\u4f4d"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-16 18:00:00",
+                        "endTime":"2021-12-17 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"\u6674\u6642\u591a\u96f2",
+                              "measures":"\u81ea\u5b9a\u7fa9 Wx \u6587\u5b57"
+                           },
+                           {
+                              "value":"02",
+                              "measures":"\u81ea\u5b9a\u7fa9 Wx \u55ae\u4f4d"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-17 06:00:00",
+                        "endTime":"2021-12-17 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"\u591a\u96f2",
+                              "measures":"\u81ea\u5b9a\u7fa9 Wx \u6587\u5b57"
+                           },
+                           {
+                              "value":"04",
+                              "measures":"\u81ea\u5b9a\u7fa9 Wx \u55ae\u4f4d"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-17 18:00:00",
+                        "endTime":"2021-12-18 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"\u591a\u96f2\u6642\u9670",
+                              "measures":"\u81ea\u5b9a\u7fa9 Wx \u6587\u5b57"
+                           },
+                           {
+                              "value":"05",
+                              "measures":"\u81ea\u5b9a\u7fa9 Wx \u55ae\u4f4d"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-18 06:00:00",
+                        "endTime":"2021-12-18 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"\u591a\u96f2",
+                              "measures":"\u81ea\u5b9a\u7fa9 Wx \u6587\u5b57"
+                           },
+                           {
+                              "value":"04",
+                              "measures":"\u81ea\u5b9a\u7fa9 Wx \u55ae\u4f4d"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-18 18:00:00",
+                        "endTime":"2021-12-19 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"\u591a\u96f2",
+                              "measures":"\u81ea\u5b9a\u7fa9 Wx \u6587\u5b57"
+                           },
+                           {
+                              "value":"04",
+                              "measures":"\u81ea\u5b9a\u7fa9 Wx \u55ae\u4f4d"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "elementName":"MaxCI",
+                  "description":"\u6700\u5927\u8212\u9069\u5ea6\u6307\u6578",
+                  "time":[
+                     {
+                        "startTime":"2021-12-12 00:00:00",
+                        "endTime":"2021-12-12 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"19",
+                              "measures":"NA "
+                           },
+                           {
+                              "value":"\u7a0d\u6709\u5bd2\u610f",
+                              "measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-12 06:00:00",
+                        "endTime":"2021-12-12 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"24",
+                              "measures":"NA "
+                           },
+                           {
+                              "value":"\u8212\u9069",
+                              "measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-12 18:00:00",
+                        "endTime":"2021-12-13 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"21",
+                              "measures":"NA "
+                           },
+                           {
+                              "value":"\u8212\u9069",
+                              "measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-13 06:00:00",
+                        "endTime":"2021-12-13 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"23",
+                              "measures":"NA "
+                           },
+                           {
+                              "value":"\u8212\u9069",
+                              "measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-13 18:00:00",
+                        "endTime":"2021-12-14 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"20",
+                              "measures":"NA "
+                           },
+                           {
+                              "value":"\u8212\u9069",
+                              "measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-14 06:00:00",
+                        "endTime":"2021-12-14 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"22",
+                              "measures":"NA "
+                           },
+                           {
+                              "value":"\u8212\u9069",
+                              "measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-14 18:00:00",
+                        "endTime":"2021-12-15 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"21",
+                              "measures":"NA "
+                           },
+                           {
+                              "value":"\u8212\u9069",
+                              "measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-15 06:00:00",
+                        "endTime":"2021-12-15 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"24",
+                              "measures":"NA "
+                           },
+                           {
+                              "value":"\u8212\u9069",
+                              "measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-15 18:00:00",
+                        "endTime":"2021-12-16 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"21",
+                              "measures":"NA "
+                           },
+                           {
+                              "value":"\u8212\u9069",
+                              "measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-16 06:00:00",
+                        "endTime":"2021-12-16 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"23",
+                              "measures":"NA "
+                           },
+                           {
+                              "value":"\u8212\u9069",
+                              "measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-16 18:00:00",
+                        "endTime":"2021-12-17 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"21",
+                              "measures":"NA "
+                           },
+                           {
+                              "value":"\u8212\u9069",
+                              "measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-17 06:00:00",
+                        "endTime":"2021-12-17 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"23",
+                              "measures":"NA "
+                           },
+                           {
+                              "value":"\u8212\u9069",
+                              "measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-17 18:00:00",
+                        "endTime":"2021-12-18 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"21",
+                              "measures":"NA "
+                           },
+                           {
+                              "value":"\u8212\u9069",
+                              "measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-18 06:00:00",
+                        "endTime":"2021-12-18 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"22",
+                              "measures":"NA "
+                           },
+                           {
+                              "value":"\u8212\u9069",
+                              "measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-18 18:00:00",
+                        "endTime":"2021-12-19 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"20",
+                              "measures":"NA "
+                           },
+                           {
+                              "value":"\u8212\u9069",
+                              "measures":"\u81ea\u5b9a\u7fa9 CI \u6587\u5b57"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "elementName":"MinT",
+                  "description":"\u6700\u4f4e\u6eab\u5ea6",
+                  "time":[
+                     {
+                        "startTime":"2021-12-12 00:00:00",
+                        "endTime":"2021-12-12 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"17",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-12 06:00:00",
+                        "endTime":"2021-12-12 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"17",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-12 18:00:00",
+                        "endTime":"2021-12-13 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"16",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-13 06:00:00",
+                        "endTime":"2021-12-13 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"16",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-13 18:00:00",
+                        "endTime":"2021-12-14 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"16",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-14 06:00:00",
+                        "endTime":"2021-12-14 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"16",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-14 18:00:00",
+                        "endTime":"2021-12-15 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"17",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-15 06:00:00",
+                        "endTime":"2021-12-15 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"17",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-15 18:00:00",
+                        "endTime":"2021-12-16 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"18",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-16 06:00:00",
+                        "endTime":"2021-12-16 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"18",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-16 18:00:00",
+                        "endTime":"2021-12-17 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"18",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-17 06:00:00",
+                        "endTime":"2021-12-17 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"18",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-17 18:00:00",
+                        "endTime":"2021-12-18 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"17",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-18 06:00:00",
+                        "endTime":"2021-12-18 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"17",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-18 18:00:00",
+                        "endTime":"2021-12-19 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"16",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "elementName":"UVI",
+                  "description":"\u7d2b\u5916\u7dda\u6307\u6578",
+                  "time":[
+                     {
+                        "startTime":"2021-12-12 06:00:00",
+                        "endTime":"2021-12-12 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"5",
+                              "measures":"\u7d2b\u5916\u7dda\u6307\u6578"
+                           },
+                           {
+                              "value":"\u4e2d\u91cf\u7d1a",
+                              "measures":"\u66dd\u66ec\u7d1a\u6578"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-13 06:00:00",
+                        "endTime":"2021-12-13 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"5",
+                              "measures":"\u7d2b\u5916\u7dda\u6307\u6578"
+                           },
+                           {
+                              "value":"\u4e2d\u91cf\u7d1a",
+                              "measures":"\u66dd\u66ec\u7d1a\u6578"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-14 06:00:00",
+                        "endTime":"2021-12-14 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"5",
+                              "measures":"\u7d2b\u5916\u7dda\u6307\u6578"
+                           },
+                           {
+                              "value":"\u4e2d\u91cf\u7d1a",
+                              "measures":"\u66dd\u66ec\u7d1a\u6578"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-15 06:00:00",
+                        "endTime":"2021-12-15 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"5",
+                              "measures":"\u7d2b\u5916\u7dda\u6307\u6578"
+                           },
+                           {
+                              "value":"\u4e2d\u91cf\u7d1a",
+                              "measures":"\u66dd\u66ec\u7d1a\u6578"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-16 06:00:00",
+                        "endTime":"2021-12-16 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"5",
+                              "measures":"\u7d2b\u5916\u7dda\u6307\u6578"
+                           },
+                           {
+                              "value":"\u4e2d\u91cf\u7d1a",
+                              "measures":"\u66dd\u66ec\u7d1a\u6578"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-17 06:00:00",
+                        "endTime":"2021-12-17 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"4",
+                              "measures":"\u7d2b\u5916\u7dda\u6307\u6578"
+                           },
+                           {
+                              "value":"\u4e2d\u91cf\u7d1a",
+                              "measures":"\u66dd\u66ec\u7d1a\u6578"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-18 06:00:00",
+                        "endTime":"2021-12-18 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"4",
+                              "measures":"\u7d2b\u5916\u7dda\u6307\u6578"
+                           },
+                           {
+                              "value":"\u4e2d\u91cf\u7d1a",
+                              "measures":"\u66dd\u66ec\u7d1a\u6578"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "elementName":"WeatherDescription",
+                  "description":"\u5929\u6c23\u9810\u5831\u7d9c\u5408\u63cf\u8ff0",
+                  "time":[
+                     {
+                        "startTime":"2021-12-12 00:00:00",
+                        "endTime":"2021-12-12 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"\u591a\u96f2\u3002\u964d\u96e8\u6a5f\u7387 0%\u3002\u6eab\u5ea6\u651d\u6c0f17\u81f319\u5ea6\u3002\u7a0d\u6709\u5bd2\u610f\u3002\u504f\u5317\u98a8 \u98a8\u901f2\u7d1a(\u6bcf\u79d22\u516c\u5c3a)\u3002\u76f8\u5c0d\u6fd5\u5ea6100%\u3002",
+                              "measures":"NA"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-12 06:00:00",
+                        "endTime":"2021-12-12 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"\u6674\u6642\u591a\u96f2\u3002\u964d\u96e8\u6a5f\u7387 10%\u3002\u6eab\u5ea6\u651d\u6c0f17\u81f326\u5ea6\u3002\u7a0d\u6709\u5bd2\u610f\u81f3\u8212\u9069\u3002\u897f\u5317\u98a8 \u98a8\u901f2\u7d1a(\u6bcf\u79d22\u516c\u5c3a)\u3002\u76f8\u5c0d\u6fd5\u5ea681%\u3002",
+                              "measures":"NA"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-12 18:00:00",
+                        "endTime":"2021-12-13 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"\u6674\u6642\u591a\u96f2\u3002\u964d\u96e8\u6a5f\u7387 0%\u3002\u6eab\u5ea6\u651d\u6c0f16\u81f321\u5ea6\u3002\u7a0d\u6709\u5bd2\u610f\u81f3\u8212\u9069\u3002\u504f\u5317\u98a8 \u98a8\u901f2\u7d1a(\u6bcf\u79d23\u516c\u5c3a)\u3002\u76f8\u5c0d\u6fd5\u5ea698%\u3002",
+                              "measures":"NA"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-13 06:00:00",
+                        "endTime":"2021-12-13 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"\u591a\u96f2\u6642\u6674\u3002\u964d\u96e8\u6a5f\u7387 0%\u3002\u6eab\u5ea6\u651d\u6c0f16\u81f325\u5ea6\u3002\u7a0d\u6709\u5bd2\u610f\u81f3\u8212\u9069\u3002\u504f\u5317\u98a8 \u98a8\u901f2\u7d1a(\u6bcf\u79d22\u516c\u5c3a)\u3002\u76f8\u5c0d\u6fd5\u5ea680%\u3002",
+                              "measures":"NA"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-13 18:00:00",
+                        "endTime":"2021-12-14 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"\u6674\u6642\u591a\u96f2\u3002\u964d\u96e8\u6a5f\u7387 0%\u3002\u6eab\u5ea6\u651d\u6c0f16\u81f321\u5ea6\u3002\u7a0d\u6709\u5bd2\u610f\u81f3\u8212\u9069\u3002\u504f\u5317\u98a8 \u98a8\u901f2\u7d1a(\u6bcf\u79d23\u516c\u5c3a)\u3002\u76f8\u5c0d\u6fd5\u5ea695%\u3002",
+                              "measures":"NA"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-14 06:00:00",
+                        "endTime":"2021-12-14 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"\u6674\u6642\u591a\u96f2\u3002\u964d\u96e8\u6a5f\u7387 0%\u3002\u6eab\u5ea6\u651d\u6c0f16\u81f326\u5ea6\u3002\u7a0d\u6709\u5bd2\u610f\u81f3\u8212\u9069\u3002\u897f\u5317\u98a8 \u98a8\u901f2\u7d1a(\u6bcf\u79d22\u516c\u5c3a)\u3002\u76f8\u5c0d\u6fd5\u5ea674%\u3002",
+                              "measures":"NA"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-14 18:00:00",
+                        "endTime":"2021-12-15 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"\u591a\u96f2\u6642\u6674\u3002\u964d\u96e8\u6a5f\u7387 0%\u3002\u6eab\u5ea6\u651d\u6c0f17\u81f321\u5ea6\u3002\u7a0d\u6709\u5bd2\u610f\u81f3\u8212\u9069\u3002\u504f\u5317\u98a8 \u98a8\u901f2\u7d1a(\u6bcf\u79d22\u516c\u5c3a)\u3002\u76f8\u5c0d\u6fd5\u5ea698%\u3002",
+                              "measures":"NA"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-15 06:00:00",
+                        "endTime":"2021-12-15 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"\u6674\u6642\u591a\u96f2\u3002\u6eab\u5ea6\u651d\u6c0f17\u81f326\u5ea6\u3002\u7a0d\u6709\u5bd2\u610f\u81f3\u8212\u9069\u3002\u897f\u5317\u98a8 \u98a8\u901f2\u7d1a(\u6bcf\u79d22\u516c\u5c3a)\u3002\u76f8\u5c0d\u6fd5\u5ea680%\u3002",
+                              "measures":"NA"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-15 18:00:00",
+                        "endTime":"2021-12-16 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"\u591a\u96f2\u6642\u6674\u3002\u6eab\u5ea6\u651d\u6c0f18\u81f322\u5ea6\u3002\u7a0d\u6709\u5bd2\u610f\u81f3\u8212\u9069\u3002\u897f\u5317\u98a8 \u98a8\u901f2\u7d1a(\u6bcf\u79d22\u516c\u5c3a)\u3002\u76f8\u5c0d\u6fd5\u5ea698%\u3002",
+                              "measures":"NA"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-16 06:00:00",
+                        "endTime":"2021-12-16 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"\u6674\u6642\u591a\u96f2\u3002\u6eab\u5ea6\u651d\u6c0f18\u81f326\u5ea6\u3002\u7a0d\u6709\u5bd2\u610f\u81f3\u8212\u9069\u3002\u504f\u5317\u98a8 \u98a8\u901f2\u7d1a(\u6bcf\u79d22\u516c\u5c3a)\u3002\u76f8\u5c0d\u6fd5\u5ea675%\u3002",
+                              "measures":"NA"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-16 18:00:00",
+                        "endTime":"2021-12-17 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"\u6674\u6642\u591a\u96f2\u3002\u6eab\u5ea6\u651d\u6c0f18\u81f322\u5ea6\u3002\u7a0d\u6709\u5bd2\u610f\u81f3\u8212\u9069\u3002\u504f\u5317\u98a8 \u98a8\u901f2\u7d1a(\u6bcf\u79d22\u516c\u5c3a)\u3002\u76f8\u5c0d\u6fd5\u5ea695%\u3002",
+                              "measures":"NA"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-17 06:00:00",
+                        "endTime":"2021-12-17 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"\u591a\u96f2\u3002\u6eab\u5ea6\u651d\u6c0f18\u81f326\u5ea6\u3002\u7a0d\u6709\u5bd2\u610f\u81f3\u8212\u9069\u3002\u504f\u5317\u98a8 \u98a8\u901f2\u7d1a(\u6bcf\u79d23\u516c\u5c3a)\u3002\u76f8\u5c0d\u6fd5\u5ea677%\u3002",
+                              "measures":"NA"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-17 18:00:00",
+                        "endTime":"2021-12-18 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"\u591a\u96f2\u6642\u9670\u3002\u6eab\u5ea6\u651d\u6c0f17\u81f322\u5ea6\u3002\u7a0d\u6709\u5bd2\u610f\u81f3\u8212\u9069\u3002\u504f\u5317\u98a8 \u98a8\u901f2\u7d1a(\u6bcf\u79d23\u516c\u5c3a)\u3002\u76f8\u5c0d\u6fd5\u5ea696%\u3002",
+                              "measures":"NA"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-18 06:00:00",
+                        "endTime":"2021-12-18 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"\u591a\u96f2\u3002\u6eab\u5ea6\u651d\u6c0f17\u81f325\u5ea6\u3002\u7a0d\u6709\u5bd2\u610f\u81f3\u8212\u9069\u3002\u897f\u5317\u98a8 \u98a8\u901f2\u7d1a(\u6bcf\u79d22\u516c\u5c3a)\u3002\u76f8\u5c0d\u6fd5\u5ea673%\u3002",
+                              "measures":"NA"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-18 18:00:00",
+                        "endTime":"2021-12-19 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"\u591a\u96f2\u3002\u6eab\u5ea6\u651d\u6c0f16\u81f321\u5ea6\u3002\u7a0d\u6709\u5bd2\u610f\u81f3\u8212\u9069\u3002\u504f\u5317\u98a8 \u98a8\u901f2\u7d1a(\u6bcf\u79d23\u516c\u5c3a)\u3002\u76f8\u5c0d\u6fd5\u5ea695%\u3002",
+                              "measures":"NA"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "elementName":"MinAT",
+                  "description":"\u6700\u4f4e\u9ad4\u611f\u6eab\u5ea6",
+                  "time":[
+                     {
+                        "startTime":"2021-12-12 00:00:00",
+                        "endTime":"2021-12-12 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"19",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-12 06:00:00",
+                        "endTime":"2021-12-12 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"19",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-12 18:00:00",
+                        "endTime":"2021-12-13 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"17",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-13 06:00:00",
+                        "endTime":"2021-12-13 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"17",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-13 18:00:00",
+                        "endTime":"2021-12-14 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"16",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-14 06:00:00",
+                        "endTime":"2021-12-14 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"16",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-14 18:00:00",
+                        "endTime":"2021-12-15 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"18",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-15 06:00:00",
+                        "endTime":"2021-12-15 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"18",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-15 18:00:00",
+                        "endTime":"2021-12-16 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"19",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-16 06:00:00",
+                        "endTime":"2021-12-16 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"19",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-16 18:00:00",
+                        "endTime":"2021-12-17 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"19",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-17 06:00:00",
+                        "endTime":"2021-12-17 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"19",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-17 18:00:00",
+                        "endTime":"2021-12-18 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"19",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-18 06:00:00",
+                        "endTime":"2021-12-18 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"19",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-18 18:00:00",
+                        "endTime":"2021-12-19 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"17",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "elementName":"MaxT",
+                  "description":"\u6700\u9ad8\u6eab\u5ea6",
+                  "time":[
+                     {
+                        "startTime":"2021-12-12 00:00:00",
+                        "endTime":"2021-12-12 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"19",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-12 06:00:00",
+                        "endTime":"2021-12-12 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"26",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-12 18:00:00",
+                        "endTime":"2021-12-13 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"21",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-13 06:00:00",
+                        "endTime":"2021-12-13 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"25",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-13 18:00:00",
+                        "endTime":"2021-12-14 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"21",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-14 06:00:00",
+                        "endTime":"2021-12-14 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"26",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-14 18:00:00",
+                        "endTime":"2021-12-15 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"21",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-15 06:00:00",
+                        "endTime":"2021-12-15 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"26",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-15 18:00:00",
+                        "endTime":"2021-12-16 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"22",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-16 06:00:00",
+                        "endTime":"2021-12-16 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"26",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-16 18:00:00",
+                        "endTime":"2021-12-17 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"22",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-17 06:00:00",
+                        "endTime":"2021-12-17 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"26",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-17 18:00:00",
+                        "endTime":"2021-12-18 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"22",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-18 06:00:00",
+                        "endTime":"2021-12-18 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"25",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-18 18:00:00",
+                        "endTime":"2021-12-19 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"21",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "elementName":"WD",
+                  "description":"\u98a8\u5411",
+                  "time":[
+                     {
+                        "startTime":"2021-12-12 00:00:00",
+                        "endTime":"2021-12-12 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"\u504f\u5317\u98a8",
+                              "measures":"8\u65b9\u4f4d"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-12 06:00:00",
+                        "endTime":"2021-12-12 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"\u897f\u5317\u98a8",
+                              "measures":"8\u65b9\u4f4d"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-12 18:00:00",
+                        "endTime":"2021-12-13 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"\u504f\u5317\u98a8",
+                              "measures":"8\u65b9\u4f4d"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-13 06:00:00",
+                        "endTime":"2021-12-13 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"\u504f\u5317\u98a8",
+                              "measures":"8\u65b9\u4f4d"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-13 18:00:00",
+                        "endTime":"2021-12-14 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"\u504f\u5317\u98a8",
+                              "measures":"8\u65b9\u4f4d"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-14 06:00:00",
+                        "endTime":"2021-12-14 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"\u897f\u5317\u98a8",
+                              "measures":"8\u65b9\u4f4d"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-14 18:00:00",
+                        "endTime":"2021-12-15 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"\u504f\u5317\u98a8",
+                              "measures":"8\u65b9\u4f4d"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-15 06:00:00",
+                        "endTime":"2021-12-15 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"\u897f\u5317\u98a8",
+                              "measures":"8\u65b9\u4f4d"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-15 18:00:00",
+                        "endTime":"2021-12-16 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"\u897f\u5317\u98a8",
+                              "measures":"8\u65b9\u4f4d"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-16 06:00:00",
+                        "endTime":"2021-12-16 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"\u504f\u5317\u98a8",
+                              "measures":"8\u65b9\u4f4d"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-16 18:00:00",
+                        "endTime":"2021-12-17 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"\u504f\u5317\u98a8",
+                              "measures":"8\u65b9\u4f4d"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-17 06:00:00",
+                        "endTime":"2021-12-17 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"\u504f\u5317\u98a8",
+                              "measures":"8\u65b9\u4f4d"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-17 18:00:00",
+                        "endTime":"2021-12-18 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"\u504f\u5317\u98a8",
+                              "measures":"8\u65b9\u4f4d"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-18 06:00:00",
+                        "endTime":"2021-12-18 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"\u897f\u5317\u98a8",
+                              "measures":"8\u65b9\u4f4d"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-18 18:00:00",
+                        "endTime":"2021-12-19 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"\u504f\u5317\u98a8",
+                              "measures":"8\u65b9\u4f4d"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "elementName":"Td",
+                  "description":"\u5e73\u5747\u9732\u9ede\u6eab\u5ea6",
+                  "time":[
+                     {
+                        "startTime":"2021-12-12 00:00:00",
+                        "endTime":"2021-12-12 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"18",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-12 06:00:00",
+                        "endTime":"2021-12-12 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"19",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-12 18:00:00",
+                        "endTime":"2021-12-13 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"17",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-13 06:00:00",
+                        "endTime":"2021-12-13 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"17",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-13 18:00:00",
+                        "endTime":"2021-12-14 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"16",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-14 06:00:00",
+                        "endTime":"2021-12-14 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"16",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-14 18:00:00",
+                        "endTime":"2021-12-15 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"18",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-15 06:00:00",
+                        "endTime":"2021-12-15 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"18",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-15 18:00:00",
+                        "endTime":"2021-12-16 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"19",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-16 06:00:00",
+                        "endTime":"2021-12-16 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"17",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-16 18:00:00",
+                        "endTime":"2021-12-17 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"18",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-17 06:00:00",
+                        "endTime":"2021-12-17 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"18",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-17 18:00:00",
+                        "endTime":"2021-12-18 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"18",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-18 06:00:00",
+                        "endTime":"2021-12-18 18:00:00",
+                        "elementValue":[
+                           {
+                              "value":"16",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     },
+                     {
+                        "startTime":"2021-12-18 18:00:00",
+                        "endTime":"2021-12-19 06:00:00",
+                        "elementValue":[
+                           {
+                              "value":"17",
+                              "measures":"\u651d\u6c0f\u5ea6"
+                           }
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         "info_news":{
+            "news_1":{
+               "type":"info",
+               "text":"info1.....info1.....info1.....info1.....info1.....info1.....info1.....info1.....info1.....info1.....info1.....info1.....info1.....info1....."
+            },
+            "news_2":{
+               "type":"news",
+               "text":"news1......news1.......news1.......news1.......news1.......news1.......news1.......news1.......news1.......news1.......news1........news1.......news1.......news1.......news1.......news1.......news1......."
+            },
+            "news_3":{
+               "type":"message",
+               "text":"message1.........................message1.........................message1.........................message1.........................message1.........................message1.........................message1.........................message1........................."
+            }
+         }
+      }
+   }
+}
